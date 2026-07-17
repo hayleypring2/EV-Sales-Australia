@@ -1,0 +1,382 @@
+"sales_model_key","period","make","sales_model","canonical_model","vehicle_type","powertrain_profile","spec_model","broad_vehicle_type","powertrain","min_listed_price_aud","max_listed_price_aud","max_range_km","min_energy_consumption","variant_count","source_id","spec_match_status","powertrain_match_status","usable_spec_match"
+"audi a3","2019","Audi","A3","Audi A3","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"audi q2","2019","Audi","Q2","Audi Q2","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"audi q5","2019","Audi","Q5","Audi Q5","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw 1 series","2019","BMW","1 Series","BMW 1 Series","passenger","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw 3 series","2019","BMW","3 Series","BMW 3 Series","passenger","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw x1","2019","BMW","X1","BMW X1","SUV","mixed_ICE_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw x3","2019","BMW","X3","BMW X3","SUV","mixed_ICE_PHEV","BMW X3","SUV","PHEV",104800,104800,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"bmw x5","2019","BMW","X5","BMW X5","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford escape","2019","Ford","Escape","Ford Escape","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford everest","2019","Ford","Everest","Ford Everest","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford focus","2019","Ford","Focus","Ford Focus","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford mustang","2019","Ford","Mustang","Ford Mustang","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford ranger","2019","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"holden acadia","2019","Holden","Acadia","Holden Acadia","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden astra","2019","Holden","Astra","Holden Astra","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden colorado","2019","Holden","Colorado","Holden Colorado","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden commodore","2019","Holden","Commodore","Holden Commodore","passenger","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden equinox","2019","Holden","Equinox","Holden Equinox","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden trailblazer","2019","Holden","Trailblazer","Holden Trailblazer","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden trax","2019","Holden","Trax","Holden Trax","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda civic","2019","Honda","Civic","Honda Civic","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda cr v","2019","Honda","CR-V","Honda CR-V","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda hr v","2019","Honda","HR-V","Honda HR-V","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda jazz","2019","Honda","Jazz","Honda Jazz","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai accent","2019","Hyundai","Accent","Hyundai Accent","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai elantra","2019","Hyundai","Elantra","Hyundai Elantra","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai i30","2019","Hyundai","i30","Hyundai i30","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai iload","2019","Hyundai","iLoad","Hyundai iLoad","light_commercial","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai kona","2019","Hyundai","Kona","Hyundai Kona","SUV","mixed_ICE_HEV_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai santa fe","2019","Hyundai","Santa Fe","Hyundai Santa Fe","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai tucson","2019","Hyundai","Tucson","Hyundai Tucson","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu d max","2019","Isuzu","D-Max","Isuzu D-Max","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu mu x","2019","Isuzu","MU-X","Isuzu MU-X","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"jeep grand cherokee","2019","Jeep","Grand Cherokee","Jeep Grand Cherokee","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia carnival","2019","Kia","Carnival","Kia Carnival","people_mover","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia cerato","2019","Kia","Cerato","Kia Cerato","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia picanto","2019","Kia","Picanto","Kia Picanto","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia rio","2019","Kia","Rio","Kia Rio","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sorento","2019","Kia","Sorento","Kia Sorento","SUV","mixed_ICE_HEV_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sportage","2019","Kia","Sportage","Kia Sportage","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"land rover discovery sport","2019","Land Rover","Discovery Sport","Land Rover Discovery Sport","SUV","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ldv t60","2019","LDV","T60","LDV T60","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"lexus nx","2019","Lexus","NX","Lexus NX","SUV","mixed_ICE_HEV_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 2","2019","Mazda","2","Mazda 2","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 3","2019","Mazda","3","Mazda 3","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 6","2019","Mazda","6","Mazda 6","passenger","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda bt 50","2019","Mazda","BT-50","Mazda BT-50","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 3","2019","Mazda","CX-3","Mazda CX-3","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 5","2019","Mazda","CX-5","Mazda CX-5","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 8","2019","Mazda","CX-8","Mazda CX-8","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 9","2019","Mazda","CX-9","Mazda CX-9","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz a class","2019","Mercedes-Benz","A-Class","Mercedes-Benz A-Class","passenger","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz c class","2019","Mercedes-Benz","C-Class","Mercedes-Benz C-Class","passenger","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz c class coupe cabriolet","2019","Mercedes-Benz","C-Class Coupe/Cabriolet","Mercedes-Benz C-Class Coupe/Cabriolet","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz gla","2019","Mercedes-Benz","GLA","Mercedes-Benz GLA","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz glc","2019","Mercedes-Benz","GLC","Mercedes-Benz GLC","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg mg3","2019","MG","MG3","MG MG3","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg zs","2019","MG","ZS","MG ZS","SUV","mixed_ICE_BEV_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi asx","2019","Mitsubishi","ASX","Mitsubishi ASX","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi eclipse cross","2019","Mitsubishi","Eclipse Cross","Mitsubishi Eclipse Cross","SUV","mixed_ICE_PHEV","Mitsubishi Eclipse Cross","SUV","PHEV",47790,47790,55,16.8,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi lancer","2019","Mitsubishi","Lancer","Mitsubishi Lancer","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi outlander","2019","Mitsubishi","Outlander","Mitsubishi Outlander","SUV","mixed_ICE_PHEV","Mitsubishi Outlander","SUV","PHEV",57290,57290,84,19.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi pajero","2019","Mitsubishi","Pajero","Mitsubishi Pajero","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi pajero sport","2019","Mitsubishi","Pajero Sport","Mitsubishi Pajero Sport","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi triton","2019","Mitsubishi","Triton","Mitsubishi Triton","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan navara","2019","Nissan","Navara","Nissan Navara","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan pathfinder","2019","Nissan","Pathfinder","Nissan Pathfinder","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan qashqai","2019","Nissan","Qashqai","Nissan Qashqai","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan x trail","2019","Nissan","X-Trail","Nissan X-Trail","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ram 1500","2019","Ram","1500","Ram 1500","light_commercial","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"range rover sport","2019","Range Rover","Sport","Range Rover Sport","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"renault koleos","2019","Renault","Koleos","Renault Koleos","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"skoda kodiaq","2019","Skoda","Kodiaq","Skoda Kodiaq","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru forester","2019","Subaru","Forester","Subaru Forester","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru impreza","2019","Subaru","Impreza","Subaru Impreza","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru outback","2019","Subaru","Outback","Subaru Outback","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru xv","2019","Subaru","XV","Subaru XV","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki baleno","2019","Suzuki","Baleno","Suzuki Baleno","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki swift","2019","Suzuki","Swift","Suzuki Swift","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki vitara","2019","Suzuki","Vitara","Suzuki Vitara","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota c hr","2019","Toyota","C-HR","Toyota C-HR","SUV","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota camry","2019","Toyota","Camry","Toyota Camry","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota corolla","2019","Toyota","Corolla","Toyota Corolla","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota fortuner","2019","Toyota","Fortuner","Toyota Fortuner","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hiace","2019","Toyota","HiAce","Toyota HiAce","light_commercial","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hiace commuter","2019","Toyota","HiAce Commuter","Toyota HiAce Commuter","bus","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hilux","2019","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota kluger","2019","Toyota","Kluger","Toyota Kluger","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser","2019","Toyota","LandCruiser","Toyota LandCruiser","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser 70","2019","Toyota","LC70","Toyota LandCruiser 70","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota prado","2019","Toyota","Prado","Toyota Prado","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2019","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota yaris","2019","Toyota","Yaris","Toyota Yaris","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen amarok","2019","Volkswagen","Amarok","Volkswagen Amarok","light_commercial","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen golf","2019","Volkswagen","Golf","Volkswagen Golf","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen polo","2019","Volkswagen","Polo","Volkswagen Polo","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen tiguan","2019","Volkswagen","Tiguan","Volkswagen Tiguan","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen tiguan allspace","2019","Volkswagen","Tiguan Allspace","Volkswagen Tiguan Allspace","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volvo xc40","2019","Volvo","XC40","Volvo XC40","SUV","mixed_ICE_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volvo xc60","2019","Volvo","XC60","Volvo XC60","SUV","mixed_ICE_PHEV","Volvo XC60","SUV","PHEV",92390,92390,81,26.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"audi a3","2020","Audi","A3","Audi A3","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"audi q3","2020","Audi","Q3","Audi Q3","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"audi q5","2020","Audi","Q5","Audi Q5","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw 1 series","2020","BMW","1 Series","BMW 1 Series","passenger","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw 3 series","2020","BMW","3 Series","BMW 3 Series","passenger","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw x1","2020","BMW","X1","BMW X1","SUV","mixed_ICE_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw x3","2020","BMW","X3","BMW X3","SUV","mixed_ICE_PHEV","BMW X3","SUV","PHEV",104800,104800,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"bmw x5","2020","BMW","X5","BMW X5","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford escape","2020","Ford","Escape","Ford Escape","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford everest","2020","Ford","Everest","Ford Everest","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford mustang","2020","Ford","Mustang","Ford Mustang","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford ranger","2020","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"ford transit custom","2020","Ford","Transit Custom","Ford Transit Custom","light_commercial","ICE_diesel","Ford Transit Custom","light_commercial","PHEV",69990,69990,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","model_name_match_only_powertrain_mismatch",FALSE
+"ford transit custom","2020","Ford","Transit Custom","Ford Transit Custom","light_commercial","ICE_diesel","Ford Transit Custom","light_commercial","BEV",79990,79990,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","model_name_match_only_powertrain_mismatch",FALSE
+"haval h2","2020","Haval","H2","Haval H2","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden colorado","2020","Holden","Colorado","Holden Colorado","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"holden trax","2020","Holden","Trax","Holden Trax","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda civic","2020","Honda","Civic","Honda Civic","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda cr v","2020","Honda","CR-V","Honda CR-V","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda hr v","2020","Honda","HR-V","Honda HR-V","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda jazz","2020","Honda","Jazz","Honda Jazz","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai i30","2020","Hyundai","i30","Hyundai i30","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai iload","2020","Hyundai","iLoad","Hyundai iLoad","light_commercial","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai kona","2020","Hyundai","Kona","Hyundai Kona","SUV","mixed_ICE_HEV_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai santa fe","2020","Hyundai","Santa Fe","Hyundai Santa Fe","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai tucson","2020","Hyundai","Tucson","Hyundai Tucson","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai venue","2020","Hyundai","Venue","Hyundai Venue","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu d max","2020","Isuzu","D-Max","Isuzu D-Max","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu mu x","2020","Isuzu","MU-X","Isuzu MU-X","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"jeep grand cherokee","2020","Jeep","Grand Cherokee","Jeep Grand Cherokee","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia carnival","2020","Kia","Carnival","Kia Carnival","people_mover","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia cerato","2020","Kia","Cerato","Kia Cerato","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia picanto","2020","Kia","Picanto","Kia Picanto","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia rio","2020","Kia","Rio","Kia Rio","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia seltos","2020","Kia","Seltos","Kia Seltos","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sorento","2020","Kia","Sorento","Kia Sorento","SUV","mixed_ICE_HEV_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sportage","2020","Kia","Sportage","Kia Sportage","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ldv t60","2020","LDV","T60","LDV T60","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"lexus nx","2020","Lexus","NX","Lexus NX","SUV","mixed_ICE_HEV_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"lexus rx","2020","Lexus","RX","Lexus RX","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 2","2020","Mazda","2","Mazda 2","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 3","2020","Mazda","3","Mazda 3","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda bt 50","2020","Mazda","BT-50","Mazda BT-50","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 3","2020","Mazda","CX-3","Mazda CX-3","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 30","2020","Mazda","CX-30","Mazda CX-30","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 5","2020","Mazda","CX-5","Mazda CX-5","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 8","2020","Mazda","CX-8","Mazda CX-8","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 9","2020","Mazda","CX-9","Mazda CX-9","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz a class","2020","Mercedes-Benz","A-Class","Mercedes-Benz A-Class","passenger","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz c class","2020","Mercedes-Benz","C-Class","Mercedes-Benz C-Class","passenger","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz cla","2020","Mercedes-Benz","CLA","Mercedes-Benz CLA","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz gla","2020","Mercedes-Benz","GLA","Mercedes-Benz GLA","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz glc","2020","Mercedes-Benz","GLC","Mercedes-Benz GLC","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz gle","2020","Mercedes-Benz","GLE","Mercedes-Benz GLE","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz x class","2020","Mercedes-Benz","X-Class","Mercedes-Benz X-Class","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg hs","2020","MG","HS","MG HS","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg mg3","2020","MG","MG3","MG MG3","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg zs","2020","MG","ZS","MG ZS","SUV","mixed_ICE_BEV_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi asx","2020","Mitsubishi","ASX","Mitsubishi ASX","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi eclipse cross","2020","Mitsubishi","Eclipse Cross","Mitsubishi Eclipse Cross","SUV","mixed_ICE_PHEV","Mitsubishi Eclipse Cross","SUV","PHEV",47790,47790,55,16.8,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi outlander","2020","Mitsubishi","Outlander","Mitsubishi Outlander","SUV","mixed_ICE_PHEV","Mitsubishi Outlander","SUV","PHEV",57290,57290,84,19.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi pajero","2020","Mitsubishi","Pajero","Mitsubishi Pajero","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi pajero sport","2020","Mitsubishi","Pajero Sport","Mitsubishi Pajero Sport","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi triton","2020","Mitsubishi","Triton","Mitsubishi Triton","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan navara","2020","Nissan","Navara","Nissan Navara","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan patrol","2020","Nissan","Patrol","Nissan Patrol","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan qashqai","2020","Nissan","Qashqai","Nissan Qashqai","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan x trail","2020","Nissan","X-Trail","Nissan X-Trail","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"porsche macan","2020","Porsche","Macan","Porsche Macan","SUV","mixed_ICE_BEV","Porsche Macan","SUV","BEV",171100,171100,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"ram 1500","2020","Ram","1500","Ram 1500","light_commercial","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"renault koleos","2020","Renault","Koleos","Renault Koleos","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"skoda octavia","2020","Skoda","Octavia","Skoda Octavia","passenger","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru forester","2020","Subaru","Forester","Subaru Forester","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru impreza","2020","Subaru","Impreza","Subaru Impreza","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru outback","2020","Subaru","Outback","Subaru Outback","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru xv","2020","Subaru","XV","Subaru XV","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki baleno","2020","Suzuki","Baleno","Suzuki Baleno","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki jimny","2020","Suzuki","Jimny","Suzuki Jimny","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki swift","2020","Suzuki","Swift","Suzuki Swift","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki vitara","2020","Suzuki","Vitara","Suzuki Vitara","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota c hr","2020","Toyota","C-HR","Toyota C-HR","SUV","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota camry","2020","Toyota","Camry","Toyota Camry","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota corolla","2020","Toyota","Corolla","Toyota Corolla","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota fortuner","2020","Toyota","Fortuner","Toyota Fortuner","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hiace","2020","Toyota","HiAce","Toyota HiAce","light_commercial","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hiace commuter","2020","Toyota","HiAce Commuter","Toyota HiAce Commuter","bus","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hilux","2020","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota kluger","2020","Toyota","Kluger","Toyota Kluger","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser","2020","Toyota","LandCruiser","Toyota LandCruiser","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser 70","2020","Toyota","LC70","Toyota LandCruiser 70","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota prado","2020","Toyota","Prado","Toyota Prado","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2020","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota yaris","2020","Toyota","Yaris","Toyota Yaris","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen amarok","2020","Volkswagen","Amarok","Volkswagen Amarok","light_commercial","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen golf","2020","Volkswagen","Golf","Volkswagen Golf","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen polo","2020","Volkswagen","Polo","Volkswagen Polo","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen t cross","2020","Volkswagen","T-Cross","Volkswagen T-Cross","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen tiguan","2020","Volkswagen","Tiguan","Volkswagen Tiguan","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen tiguan allspace","2020","Volkswagen","Tiguan Allspace","Volkswagen Tiguan Allspace","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volvo xc40","2020","Volvo","XC40","Volvo XC40","SUV","mixed_ICE_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volvo xc60","2020","Volvo","XC60","Volvo XC60","SUV","mixed_ICE_PHEV","Volvo XC60","SUV","PHEV",92390,92390,81,26.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"ford ranger","2021","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"hyundai i30","2021","Hyundai","i30","Hyundai i30","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai tucson","2021","Hyundai","Tucson","Hyundai Tucson","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu d max","2021","Isuzu","D-Max","Isuzu D-Max","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia cerato","2021","Kia","Cerato","Kia Cerato","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 3","2021","Mazda","3","Mazda 3","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda bt 50","2021","Mazda","BT-50","Mazda BT-50","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 5","2021","Mazda","CX-5","Mazda CX-5","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg mg3","2021","MG","MG3","MG MG3","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg zs","2021","MG","ZS","MG ZS","SUV","mixed_ICE_BEV_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi asx","2021","Mitsubishi","ASX","Mitsubishi ASX","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi outlander","2021","Mitsubishi","Outlander","Mitsubishi Outlander","SUV","mixed_ICE_PHEV","Mitsubishi Outlander","SUV","PHEV",57290,57290,84,19.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi triton","2021","Mitsubishi","Triton","Mitsubishi Triton","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan navara","2021","Nissan","Navara","Nissan Navara","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan x trail","2021","Nissan","X-Trail","Nissan X-Trail","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota corolla","2021","Toyota","Corolla","Toyota Corolla","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hilux","2021","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser","2021","Toyota","LandCruiser","Toyota LandCruiser","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota prado","2021","Toyota","Prado","Toyota Prado","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2021","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford ranger","2022","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"hyundai i30","2022","Hyundai","i30","Hyundai i30","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai tucson","2022","Hyundai","Tucson","Hyundai Tucson","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu d max","2022","Isuzu","D-Max","Isuzu D-Max","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia cerato","2022","Kia","Cerato","Kia Cerato","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sportage","2022","Kia","Sportage","Kia Sportage","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda bt 50","2022","Mazda","BT-50","Mazda BT-50","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 3","2022","Mazda","CX-3","Mazda CX-3","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 30","2022","Mazda","CX-30","Mazda CX-30","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 5","2022","Mazda","CX-5","Mazda CX-5","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg mg3","2022","MG","MG3","MG MG3","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg zs","2022","MG","ZS","MG ZS","SUV","mixed_ICE_BEV_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi outlander","2022","Mitsubishi","Outlander","Mitsubishi Outlander","SUV","mixed_ICE_PHEV","Mitsubishi Outlander","SUV","PHEV",57290,57290,84,19.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi triton","2022","Mitsubishi","Triton","Mitsubishi Triton","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota corolla","2022","Toyota","Corolla","Toyota Corolla","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hilux","2022","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota kluger","2022","Toyota","Kluger","Toyota Kluger","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser","2022","Toyota","LandCruiser","Toyota LandCruiser","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota prado","2022","Toyota","Prado","Toyota Prado","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2022","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"audi a3","2024","Audi","A3","Audi A3","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"audi q3","2024","Audi","Q3","Audi Q3","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"audi q5","2024","Audi","Q5","Audi Q5","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw 3 series","2024","BMW","3 Series","BMW 3 Series","passenger","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw x1","2024","BMW","X1","BMW X1","SUV","mixed_ICE_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"bmw x3","2024","BMW","X3","BMW X3","SUV","mixed_ICE_PHEV","BMW X3","SUV","PHEV",104800,104800,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"bmw x5","2024","BMW","X5","BMW X5","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"byd atto 3","2024","BYD","Atto 3","BYD Atto 3","SUV","BEV","BYD Atto 3","SUV","BEV",39990,39990,410,14.8,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"byd dolphin","2024","BYD","Dolphin","BYD Dolphin","passenger","BEV","BYD Dolphin","passenger","BEV",29990,29990,410,12.6,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"byd seal","2024","BYD","Seal","BYD Seal","passenger","BEV","BYD Seal","passenger","BEV",46990,46990,510,13.8,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"byd sealion 6","2024","BYD","Sealion 6","BYD Sealion 6","SUV","PHEV","BYD Sealion 6","SUV","PHEV",42990,42990,92,16.9,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"chery omoda 5","2024","Chery","Omoda 5","Chery Omoda 5","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"chery tiggo 7 pro","2024","Chery","Tiggo 7 Pro","Chery Tiggo 7 Pro","SUV","ICE_petrol","Chery Tiggo 7 Pro","SUV","PHEV",NA,NA,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","model_name_match_only_powertrain_mismatch",FALSE
+"chevrolet silverado","2024","Chevrolet","Silverado","Chevrolet Silverado","light_commercial","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford everest","2024","Ford","Everest","Ford Everest","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford f 150","2024","Ford","F-150","Ford F-150","light_commercial","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford ranger","2024","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"gwm tank 300","2024","GWM","Tank 300","GWM Tank 300","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"gwm ute","2024","GWM","Ute","GWM Ute","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"gwm haval h6","2024","GWM Haval","H6","GWM Haval H6","SUV","mixed_ICE_HEV","GWM Haval H6","SUV","PHEV",NA,NA,180,20.9,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","model_name_match_only_powertrain_mismatch",FALSE
+"gwm haval h6 gt","2024","GWM Haval","H6 GT","GWM Haval H6 GT","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"gwm haval jolion","2024","GWM Haval","Jolion","GWM Haval Jolion","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda cr v","2024","Honda","CR-V","Honda CR-V","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda hr v","2024","Honda","HR-V","Honda HR-V","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"honda zr v","2024","Honda","ZR-V","Honda ZR-V","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai i30","2024","Hyundai","i30","Hyundai i30","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai kona","2024","Hyundai","Kona","Hyundai Kona","SUV","mixed_ICE_HEV_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai palisade","2024","Hyundai","Palisade","Hyundai Palisade","SUV","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai santa fe","2024","Hyundai","Santa Fe","Hyundai Santa Fe","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai tucson","2024","Hyundai","Tucson","Hyundai Tucson","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai venue","2024","Hyundai","Venue","Hyundai Venue","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu d max","2024","Isuzu","D-Max","Isuzu D-Max","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu mu x","2024","Isuzu","MU-X","Isuzu MU-X","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia carnival","2024","Kia","Carnival","Kia Carnival","people_mover","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia cerato","2024","Kia","Cerato","Kia Cerato","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia picanto","2024","Kia","Picanto","Kia Picanto","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sorento","2024","Kia","Sorento","Kia Sorento","SUV","mixed_ICE_HEV_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sportage","2024","Kia","Sportage","Kia Sportage","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia stonic","2024","Kia","Stonic","Kia Stonic","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"land rover defender","2024","Land Rover","Defender","Land Rover Defender","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ldv d90","2024","LDV","D90","LDV D90","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ldv t60","2024","LDV","T60","LDV T60","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"lexus nx","2024","Lexus","NX","Lexus NX","SUV","mixed_ICE_HEV_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 2","2024","Mazda","2","Mazda 2","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda 3","2024","Mazda","3","Mazda 3","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda bt 50","2024","Mazda","BT-50","Mazda BT-50","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 3","2024","Mazda","CX-3","Mazda CX-3","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 30","2024","Mazda","CX-30","Mazda CX-30","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 5","2024","Mazda","CX-5","Mazda CX-5","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 60","2024","Mazda","CX-60","Mazda CX-60","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 8","2024","Mazda","CX-8","Mazda CX-8","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz gla","2024","Mercedes-Benz","GLA","Mercedes-Benz GLA","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mercedes benz glc","2024","Mercedes-Benz","GLC","Mercedes-Benz GLC","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg hs","2024","MG","HS","MG HS","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg mg3","2024","MG","MG3","MG MG3","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg mg4","2024","MG","MG4","MG MG4","passenger","BEV","MG MG4","passenger","BEV",37990,37990,405,18.4,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mg zs","2024","MG","ZS","MG ZS","SUV","mixed_ICE_BEV_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi asx","2024","Mitsubishi","ASX","Mitsubishi ASX","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi eclipse cross","2024","Mitsubishi","Eclipse Cross","Mitsubishi Eclipse Cross","SUV","mixed_ICE_PHEV","Mitsubishi Eclipse Cross","SUV","PHEV",47790,47790,55,16.8,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi outlander","2024","Mitsubishi","Outlander","Mitsubishi Outlander","SUV","mixed_ICE_PHEV","Mitsubishi Outlander","SUV","PHEV",57290,57290,84,19.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi pajero sport","2024","Mitsubishi","Pajero Sport","Mitsubishi Pajero Sport","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi triton","2024","Mitsubishi","Triton","Mitsubishi Triton","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan navara","2024","Nissan","Navara","Nissan Navara","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan patrol","2024","Nissan","Patrol","Nissan Patrol","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan qashqai","2024","Nissan","Qashqai","Nissan Qashqai","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan x trail","2024","Nissan","X-Trail","Nissan X-Trail","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"porsche macan","2024","Porsche","Macan","Porsche Macan","SUV","mixed_ICE_BEV","Porsche Macan","SUV","BEV",171100,171100,NA,NA,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"ram 1500","2024","Ram","1500","Ram 1500","light_commercial","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"range rover sport","2024","Range Rover","Sport","Range Rover Sport","SUV","mixed_ICE_PHEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ssangyong musso","2024","Ssangyong","Musso","Ssangyong Musso","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru crosstrek","2024","Subaru","Crosstrek","Subaru Crosstrek","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru forester","2024","Subaru","Forester","Subaru Forester","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru outback","2024","Subaru","Outback","Subaru Outback","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"subaru wrx","2024","Subaru","WRX","Subaru WRX","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki jimny","2024","Suzuki","Jimny","Suzuki Jimny","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki swift","2024","Suzuki","Swift","Suzuki Swift","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"suzuki vitara","2024","Suzuki","Vitara","Suzuki Vitara","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"tesla model 3","2024","Tesla","Model 3","Tesla Model 3","passenger","BEV","Tesla Model 3","passenger","BEV",54900,54900,559,13.4,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"tesla model y","2024","Tesla","Model Y","Tesla Model Y","SUV","BEV","Tesla Model Y","SUV","BEV",55900,55900,510,14.6,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"toyota c hr","2024","Toyota","C-HR","Toyota C-HR","SUV","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota camry","2024","Toyota","Camry","Toyota Camry","passenger","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota corolla","2024","Toyota","Corolla","Toyota Corolla","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota corolla cross","2024","Toyota","Corolla Cross","Toyota Corolla Cross","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota fortuner","2024","Toyota","Fortuner","Toyota Fortuner","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hilux","2024","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota kluger","2024","Toyota","Kluger","Toyota Kluger","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser","2024","Toyota","LandCruiser","Toyota LandCruiser","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota landcruiser 70","2024","Toyota","LC70","Toyota LandCruiser 70","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota prado","2024","Toyota","Prado","Toyota Prado","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2024","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota yaris","2024","Toyota","Yaris","Toyota Yaris","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota yaris cross","2024","Toyota","Yaris Cross","Toyota Yaris Cross","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen amarok","2024","Volkswagen","Amarok","Volkswagen Amarok","light_commercial","ICE_diesel_or_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen golf","2024","Volkswagen","Golf","Volkswagen Golf","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen polo","2024","Volkswagen","Polo","Volkswagen Polo","passenger","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen t roc","2024","Volkswagen","T-Roc","Volkswagen T-Roc","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen tiguan","2024","Volkswagen","Tiguan","Volkswagen Tiguan","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volkswagen tiguan allspace","2024","Volkswagen","Tiguan Allspace","Volkswagen Tiguan Allspace","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"volvo ex30","2024","Volvo","EX30","Volvo EX30","SUV","BEV","Volvo EX30","SUV","BEV",59990,59990,462,17.5,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"volvo xc40","2024","Volvo","XC40","Volvo XC40","SUV","mixed_ICE_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"byd shark 6","2025","BYD","Shark 6","BYD Shark 6","light_commercial","PHEV","BYD Shark 6","light_commercial","PHEV",57900,57900,100,21.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"chery tiggo 4","2025","Chery","Tiggo 4","Chery Tiggo 4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford everest","2025","Ford","Everest","Ford Everest","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford ranger","2025","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"gwm haval jolion","2025","GWM Haval","Jolion","GWM Haval Jolion","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai kona","2025","Hyundai","Kona","Hyundai Kona","SUV","mixed_ICE_HEV_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai tucson","2025","Hyundai","Tucson","Hyundai Tucson","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu d max","2025","Isuzu","D-Max","Isuzu D-Max","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu mu x","2025","Isuzu","MU-X","Isuzu MU-X","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"kia sportage","2025","Kia","Sportage","Kia Sportage","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mazda cx 5","2025","Mazda","CX-5","Mazda CX-5","SUV","ICE_petrol_or_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mg zs","2025","MG","ZS","MG ZS","SUV","mixed_ICE_BEV_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi outlander","2025","Mitsubishi","Outlander","Mitsubishi Outlander","SUV","mixed_ICE_PHEV","Mitsubishi Outlander","SUV","PHEV",57290,57290,84,19.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"mitsubishi triton","2025","Mitsubishi","Triton","Mitsubishi Triton","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"nissan x trail","2025","Nissan","X-Trail","Nissan X-Trail","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"tesla model y","2025","Tesla","Model Y","Tesla Model Y","SUV","BEV","Tesla Model Y","SUV","BEV",55900,55900,510,14.6,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"toyota corolla","2025","Toyota","Corolla","Toyota Corolla","passenger","HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota hilux","2025","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota prado","2025","Toyota","Prado","Toyota Prado","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2025","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"byd sealion 7","2026-04","BYD","Sealion 7","BYD Sealion 7","SUV","BEV","BYD Sealion 7","SUV","BEV",63990,63990,542,17.9,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"chery tiggo 4","2026-04","Chery","Tiggo 4","Chery Tiggo 4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford everest","2026-04","Ford","Everest","Ford Everest","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford ranger","2026-04","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"gwm haval jolion","2026-04","GWM Haval","Jolion","GWM Haval Jolion","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai kona","2026-04","Hyundai","Kona","Hyundai Kona","SUV","mixed_ICE_HEV_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"mitsubishi outlander","2026-04","Mitsubishi","Outlander","Mitsubishi Outlander","SUV","mixed_ICE_PHEV","Mitsubishi Outlander","SUV","PHEV",57290,57290,84,19.2,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"toyota hilux","2026-04","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota prado","2026-04","Toyota","Prado","Toyota Prado","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2026-04","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"chery tiggo 4","2026-05","Chery","Tiggo 4","Chery Tiggo 4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford everest","2026-05","Ford","Everest","Ford Everest","SUV","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"ford ranger","2026-05","Ford","Ranger","Ford Ranger","light_commercial","mixed_ICE_PHEV","Ford Ranger","light_commercial","PHEV",79990,79990,49,18.7,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"hyundai kona","2026-05","Hyundai","Kona","Hyundai Kona","SUV","mixed_ICE_HEV_BEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"hyundai tucson","2026-05","Hyundai","Tucson","Hyundai Tucson","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"isuzu d max","2026-05","Isuzu","D-Max","Isuzu D-Max","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"jaecoo j5","2026-05","Jaecoo","J5","Jaecoo J5","SUV","ICE_petrol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"tesla model y","2026-05","Tesla","Model Y","Tesla Model Y","SUV","BEV","Tesla Model Y","SUV","BEV",55900,55900,510,14.6,1,"aaa_ev_index_vehicle_specs","exact_model_name_match","compatible",TRUE
+"toyota hilux","2026-05","Toyota","Hilux","Toyota Hilux","light_commercial","ICE_diesel",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE
+"toyota rav4","2026-05","Toyota","RAV4","Toyota RAV4","SUV","mixed_ICE_HEV",NA,NA,NA,NA,NA,NA,NA,NA,NA,"no_exact_spec_match","no_spec_match",FALSE

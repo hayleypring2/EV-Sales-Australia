@@ -58,7 +58,7 @@ Current script outputs:
 
 Remaining investigation:
 
-- Add the AAA vehicle specification CSV as an auxiliary model/specification layer.
+- Backfill ICE model emissions/specifications from Green Vehicle Guide, VESR, or RAV/NVES data sources.
 - Decide whether to treat AAA quarterly sales as the authoritative 2022-Q1 2026 backbone and use VFACTS-media reconstructions mainly for 2016-2021 and annual validation.
 
 Registration stock layer:
@@ -67,3 +67,9 @@ Registration stock layer:
 - The workbook provides postcode/state/fuel registration stock as at 31 January for 2021-2025.
 - Fuel groups are `BEV`, `Hybrid/PHEV`, and `ICE`; the ingest normalizes `Hybrid/PHEV` to `HEV_or_PHEV`.
 - Outputs include `stock_panel_annual.csv`, `stock_panel_postcode_annual.csv`, `stock_panel_coverage.csv`, and `sales_stock_share_alignment.csv`.
+
+Vehicle specifications layer:
+
+- `scripts/ingest_aaa_vehicle_specs.R` ingests `Vehicle_Specifications_SEP_25.csv`.
+- The CSV provides current BEV/PHEV model and variant specifications including listed price, fast-charge time, ANCAP rating, range, and energy consumption.
+- Outputs include `vehicle_specs_aaa.csv`, `vehicle_specs_model_summary.csv`, `vehicle_specs_coverage.csv`, and `model_sales_vehicle_specs_coverage.csv`.

@@ -1,0 +1,617 @@
+ 
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Search cars | Green Vehicle Guide</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- Favicon -->
+    <link rel="icon" href="/assets/images/icons/favicon.ico?ver=1" type="image/x-icon" />
+    <link rel="stylesheet" href="/assets/libraries/slick.min.css" />
+    <link rel="stylesheet" href="/assets/libraries/jquery-ui.min.css" />
+    <link rel="stylesheet" href="/assets/libraries/jquery-ui.theme.min.css" />
+    <link rel="stylesheet" href="/assets/styles/main.css?v=1.1" />
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-C30732YPKC"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'G-C30732YPKC');
+	</script> 
+</head>
+
+<body class="body__fix search-vehicles-by-feature">
+    <a class="skip-nav" href="#section">Skip navigation</a>
+<header class="header">
+
+    <div class="nav__wrapper">
+        <div class="nav">
+            <div class="nav__top">
+                <a href="/">
+                    <img class="nav__logo nav__logo__gov" src="/assets/images/Brandmarks/Aust_Government_Logo.svg" alt="An Australian Government Initiative logo" />
+                    <div class="nav__vertical__line"></div>
+                    <img class="nav__logo nav__logo__gvg" src="/assets/images/Brandmarks/GVG_BMark_Colour.svg" alt="Green Vehicle Guide logo" />
+                </a>
+                
+            </div>
+            <div class="nav__menu-popup">
+                <button class="nav__menu"> 
+                <img  src="/assets/images/Function_icons/hamburger.svg" alt="Menu Icon" />
+                </button>
+                <button class="nav__menu__close"> 
+                <img  src="/assets/images/Function_icons/Exit.svg" alt="Exit Icon" />
+                </button> 
+            </div>
+            <nav class="nav__bot" >
+                    <ul class="nav__links">
+                        <li class="nav__link"  aria-expanded= "false">
+                            <a class="nav__item" aria-haspopup="true" href="#">Tools and calculator 
+                                <div class="nav__item__btns" aria-hidden="true"></div>
+                            </a>
+                            <div class="nav__link__menu_level_1" >
+                             <ul role="submenu " aria-label="submenu of tools and calculator" aria-expanded= "false"> 
+                                <li> <a class="nav__link__sub" href="/Calculators/FuelCalculator">Fuel cost and CO<sub>2</sub> calculator</a></li>
+                                <li> <a class="nav__link__sub" href="/Calculators/HomeChargingCalculator">Home charging calculator</a></li>
+                                <li> <a class="nav__link__sub" href="/Calculators/FuelLifecycleEmissionsCalculator">Fuel lifecycle emissions calculator</a></li>
+                                <li> <a class="nav__link__sub" href="/Vehicle/Search">Search cars</a></li>
+                                <li> <a class="nav__link__sub" href="/pages/ToolsAndCalculators/SearchOlderVehicles">Search older vehicles</a></li>
+                                <li> <a class="nav__link__sub" href="/Vehicle/CompareVehicle">Compare vehicles</a></li>
+                                <li> <a class="nav__link__sub" href="/pages/ToolsAndCalculators/HowToGuide">How to guide</a></li>
+                                <li> <a class="nav__link__sub" href="/pages/ToolsAndCalculators/RankingsAndMeasurements">Rankings and measurements</a></li>
+                                <li> <a class="nav__link__sub" href="/pages/ToolsAndCalculators/FuelConsumptionLabel">Fuel consumption label</a></li>
+                                <li> <a class="nav__link__sub" href="/StaticContent/GuidesAndResources?viewName=Information%2FGuidesAndResources">Guides and resources</a></li>
+                             </ul>
+                            </div>
+                        </li>
+                        <li class="nav__link"  aria-expanded= "false">
+                            <a class="nav__item" aria-haspopup="true" href="#">Featured vehicles 
+                                <div class="nav__item__btns" aria-hidden="true"></div>
+                            </a>
+                            <div class="nav__link__menu_level_1">
+                             <ul role="submenu " aria-label="sub menu of Featured vehicles" aria-expanded= "false"> 
+                                <li><a class="nav__link__sub" href="/#top20">Top 20 performers and sellers</a></li>
+                                <li><a class="nav__link__sub" href="/Home/NewlyAddedVehicles">Newly added vehicles</a></li>
+                             </ul>   
+                            </div>
+                        </li>
+                        <li class="nav__link"  aria-expanded= "false">
+                            <a class="nav__item" aria-haspopup="true" href="#">Low and zero emission vehicles 
+                                <div class="nav__item__btns" aria-hidden="true"></div>                        
+                            </a>
+                            <div class="nav__link__menu_level_1">
+                             <ul role="submenu " aria-label="sub menu of Low and zero emission vehicles" aria-expanded= "false"> 
+                                <li> <a class="nav__link__sub" href="/pages/LowAndZeroEmissionVehicles/HybridVehicleInformation">Hybrid vehicles</a></li> 
+                                <li> <a class="nav__link__sub" href="/pages/LowAndZeroEmissionVehicles/ElectricVehicleInformation">Electric vehicles</a></li> 
+                                <li> <a class="nav__link__sub" href="/pages/LowAndZeroEmissionVehicles/HydrogenVehicleInformation">Hydrogen vehicles</a></li> 
+                             </ul> 
+                            </div>
+                        </li>
+                        <li class="nav__link"  aria-expanded= "false">
+                            <a class="nav__item" aria-haspopup="true" href="#">Understanding emissions  
+                                <div class="nav__item__btns" aria-hidden="true"></div>
+                            </a>
+                            <div class="nav__link__menu_level_1">
+                             <ul role="submenu " aria-label="sub menu of Understanding emissions" aria-expanded= "false"> 
+                                <li> <a class="nav__link__sub" href="/pages/UnderstandingEmissions/LifecycleEmissions">Lifecycle emissions</a></li> 
+                                <li> <a class="nav__link__sub" href="/pages/UnderstandingEmissions/VehicleEmissions">Vehicle emissions </a></li> 
+                                <li> <a class="nav__link__sub" href="/pages/UnderstandingEmissions/TipsToReduceYourEmissions">Tips to reduce your emissions</a></li> 
+                                <li> <a class="nav__link__sub" href="/pages/UnderstandingEmissions/RealWorldEmissions">Real world emissions</a></li> 
+                             </ul>
+                            </div>
+                        </li>
+                        <li class="nav__link"  aria-expanded= "false">
+                            <a class="nav__item" aria-haspopup="true" href="#">About 
+                                <div class="nav__item__btns" aria-hidden="true"></div>
+                            </a>
+                            <div class="nav__link__menu_level_1">
+                             <ul role="submenu " aria-label="sub menu of About" aria-expanded= "false"> 
+                                <li><a class="nav__link__sub" href="/Home/About">About us</a></li>
+                                <li><a class="nav__link__sub" href="/Home/Contact">Contact us</a></li>
+                                <li><a class="nav__link__sub" href="/pages/About/FAQ">FAQs</a></li>
+                             </ul>
+                            </div>
+                        </li>
+                        <li class="nav__link"  aria-expanded= "false">
+                            <a class="nav__item" aria-haspopup="true" href="/News">News</a>
+                        </li>
+                    </ul>
+
+            </nav>
+        </div>
+    </div>
+</header>
+
+    
+
+
+<input data-val="true" data-val-number="The field SearchType must be a number." data-val-required="The SearchType field is required." id="SearchType" name="SearchType" type="hidden" value="0" />
+
+    <img class="blobs-standard blobs-standard__top-right" src="/assets/images/blobs/Standard-TopRight.svg" alt="" />
+    <img class="blobs-standard blobs-standard__top-left" src="/assets/images/blobs/Standard-TopLeft.svg" alt="" />
+    <img class="blobs-standard blobs-standard__bottom-right" src="/assets/images/blobs/Footer-BottomRight.svg" alt="" />
+    <img class="blobs-standard blobs-standard__bottom-left" src="/assets/images/blobs/Footer-BottomLeft.svg" alt="" />
+
+<main class="section-general" role="main">
+    <div class="section-sub">
+        <div class="section-general__right" id="section">
+            <div class="section-general__right__breadcrumbs"> 
+                <a class="section-general__right__breadcrumbs__L1" href="/">Green Vehicle Guide </a>
+                <span class="section-general__right__breadcrumbs__arrow">&gt; </span>
+                <a class="section-general__right__breadcrumbs__L2" href="#">Tools and calculators </a>
+                <span class="section-general__right__breadcrumbs__arrow">&gt;  </span>
+                <a class="section-general__right__breadcrumbs__L3" href="#">Search cars</a>
+            </div>
+            <h1 class="section-general__right__title">Search cars</h1>
+            <p class="section-general__right__text">Search for a specific vehicle or compare several different vehicles and view a downloadable and shareable summary of data on emissions, fuel consumption, electric range, cost and noise data.   </p>
+            <div class="disclaimer">
+                <h2 class="disclaimer__title">Vehicle variables</h2>
+                <p class="disclaimer__text">Vehicles that are the identical make and model produce different emissions and use different amounts of fuel depending on the vehicle body type, engine, transmision, and drivetrain. Please specify vehicle variables to view results. </p>
+            </div>
+            
+
+        </div>
+        <div class="section-general__left">
+            <h3>Related links</h3>
+            <div class="section-general__left__links">
+                <a class="section-general__left__link" href="/Calculators/FuelCalculator">Fuel and CO<sub>2</sub> calculator</a>
+                <a class="section-general__left__link" href="/pages/ToolsAndCalculators/FuelConsumptionLabel">Fuel consumption label</a>
+                <a class="section-general__left__link" href="/Calculators/HomeChargingCalculator">Home charging calculator</a>
+                <a class="section-general__left__link" href="/pages/Help/HowToGuide">How to use tools and calculators</a>
+            </div>
+            <h3>Follow us</h3>
+            <div class="section-general__left__share-page">
+                <a class="section-general__left__share-page icon__twitter" href="https://www.youtube.com/c/InfrastructureTransportRegionalDevComms">Youtube</a>
+                <a class="section-general__left__share-page icon__facebook" href="https://www.facebook.com/AusGovInfrastructure">Facebook</a>
+                <a class="section-general__left__share-page icon__linkedin" href="https://www.linkedin.com/company/infrastructureau/">LinkedIn</a>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="search-block">
+        <div class="search-block">
+<form action="/Vehicle/Search" method="post">    <div class="v-search-inner"> 
+        <div class="feature-search">
+            <div class="fieldset">
+                <div class="columns advanced-form-items">
+                    <div class="columns__expand-btn__wrapper">
+                        <button class="columns__expand-btn active" aria-expand="true">Filters<span class="icon" aria-hidden="true"></span></button>
+                    </div>
+                    <div class="column left">
+                     <fieldset> 
+                      <legend class="h3style">Variant period</legend>
+                        <div class="column halves">
+                            <input id="VehicleSearchParameterList_Index" name="VehicleSearchParameterList.Index" type="hidden" value="4">
+                            <div class="form-item">
+                                <label for="VS_4_SelectedYearStart">From Year</label>
+                                <select id="VS_4_SelectedYearStart" name="VehicleSearchParameterList[4].SelectedYearStart"><option value="-1"></option>
+<option value="2026">2026</option>
+<option selected="selected" value="2025">2025</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2022">2022</option>
+<option value="2021">2021</option>
+<option value="2020">2020</option>
+<option value="2019">2019</option>
+<option value="2018">2018</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+</select>
+                            </div>
+                            <div class="form-item">
+                                <label for="VS_4_SelectedYearEnd">To Year</label>
+                                <select id="VS_4_SelectedYearEnd" name="VehicleSearchParameterList[4].SelectedYearEnd"><option value="-1"></option>
+<option value="2026">2026</option>
+<option selected="selected" value="2025">2025</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2022">2022</option>
+<option value="2021">2021</option>
+<option value="2020">2020</option>
+<option value="2019">2019</option>
+<option value="2018">2018</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+</select>
+                            </div>
+                        </div>
+                     </fieldset>
+                    </div>
+                    <div class="column right">
+                     <fieldset> 
+                        <legend class="h3style">Vehicle specifications</legend>
+                        <div class="column halves">
+                            <div class="form-item">
+                                <label for="VS_4_SelectedManufacturer">Make</label>
+                                <select id="VS_4_SelectedManufacturer" name="VehicleSearchParameterList[4].SelectedManufacturer"><option value="-1"></option>
+<option value="26">Alfa Romeo</option>
+<option value="108">Alpina</option>
+<option value="78">Aston Martin</option>
+<option value="5">Audi</option>
+<option value="28">Bentley</option>
+<option value="29">BMW</option>
+<option value="111">BYD</option>
+<option value="88">Caterham</option>
+<option value="94">Chery</option>
+<option value="107">Chevrolet</option>
+<option value="31">Citroen</option>
+<option value="112">Cupra</option>
+<option value="116">Deepal</option>
+<option value="123">Denza</option>
+<option value="76">Fiat</option>
+<option value="2">Ford</option>
+<option value="118">Foton</option>
+<option value="96">Geely</option>
+<option value="105">Genesis</option>
+<option value="91">Great Wall</option>
+<option value="109">GWM</option>
+<option selected="selected" value="104">Haval</option>
+<option value="38">Honda</option>
+<option value="39">Hyundai</option>
+<option value="86">Isuzu</option>
+<option value="117">Jaecoo</option>
+<option value="56">Jaguar</option>
+<option value="40">Jeep</option>
+<option value="122">KGM</option>
+<option value="41">Kia</option>
+<option value="74">Lamborghini</option>
+<option value="42">Land Rover</option>
+<option value="99">LDV</option>
+<option value="114">Leapmotor</option>
+<option value="57">Lexus</option>
+<option value="73">Lotus</option>
+<option value="6">Mazda</option>
+<option value="97">McLaren</option>
+<option value="44">Mercedes-Benz</option>
+<option value="59">MG</option>
+<option value="61">MINI</option>
+<option value="45">Mitsubishi</option>
+<option value="87">Morgan</option>
+<option value="1">Nissan</option>
+<option value="119">Omoda</option>
+<option value="47">Peugeot</option>
+<option value="110">Polestar</option>
+<option value="55">Porsche</option>
+<option value="70">Proton</option>
+<option value="7">Renault</option>
+<option value="62">Rolls-Royce</option>
+<option value="80">Skoda</option>
+<option value="49">Smart</option>
+<option value="75">Ssangyong</option>
+<option value="50">Subaru</option>
+<option value="51">Suzuki</option>
+<option value="89">Tata</option>
+<option value="93">Tesla</option>
+<option value="3">Toyota</option>
+<option value="54">Volkswagen</option>
+<option value="53">Volvo</option>
+<option value="115">XPENG</option>
+<option value="113">Zeekr</option>
+</select>
+
+                            </div>
+                            <div class="form-item">
+                                <label for="VS_4_VehicleModel">Model</label>
+                                <select id="VS_4_VehicleModel" name="VehicleSearchParameterList[4].VehicleModel"><option selected="selected" value="-1"></option>
+</select>
+                            </div>
+                            <div class="form-item">
+                                <label for="VS_4_Variant">Variant</label>
+                                <select id="VS_4_Variant" name="VehicleSearchParameterList[4].Variant"><option selected="selected" value="-1"></option>
+</select>
+                            </div>
+                        </div>
+                        <div class="column halves">
+                            <div class="form-item">
+                                <label for="VS_4_TransmissionType">Transmission</label>
+                                <select id="VS_4_TransmissionType" name="VehicleSearchParameterList[4].Transmission"><option selected="selected" value="-1"></option>
+<option value="0">N/A</option>
+<option value="1">Auto</option>
+<option value="2">Manual</option>
+<option value="3">CVT</option>
+<option value="4">Other</option>
+</select>
+                            </div>
+                            <div class="form-item">
+                                <label for="VS_4_VehicleClass">Vehicle Class</label>
+                                <select id="VS_4_VehicleClass" name="VehicleSearchParameterList[4].VehicleClass"><option value="-1"></option>
+<option value="2">Small Car</option>
+<option value="3">Medium Car</option>
+<option value="4">Large Car</option>
+<option value="5">Offroad</option>
+<option value="6">Van</option>
+<option selected="selected" value="7">Ute or Light Truck</option>
+<option value="8">People Mover</option>
+</select>
+                            </div>
+                            <div class="form-item">
+                                <label for="VS_4_BodyStyle">Body</label>
+                                <select id="VS_4_BodyStyle" name="VehicleSearchParameterList[4].BodyStyle"><option selected="selected" value="-1"></option>
+<option value="16">Cab-chassis</option>
+<option value="5">Convertible</option>
+<option value="4">Coupe</option>
+<option value="17">Hatch</option>
+<option value="10">Light bus</option>
+<option value="1">Sedan</option>
+<option value="18">SUV</option>
+<option value="6">Utility</option>
+<option value="8">Van</option>
+<option value="3">Wagon</option>
+</select>
+                            </div>
+                        </div>
+                        <div class="column halves">
+                            <div class="form-item">
+                                <label for="VS_4_FuelType">Fuel type</label>
+                                <select id="VS_4_FuelType" name="VehicleSearchParameterList[4].FuelType"><option value="-1"></option>
+<option value="1">Petrol 91RON</option>
+<option value="2">Petrol 95RON</option>
+<option value="3">Petrol 98RON</option>
+<option selected="selected" value="4">Diesel</option>
+<option value="5">LPG</option>
+<option value="6">Petrol/LPG</option>
+<option value="22">E85</option>
+<option value="15">Pure Electric</option>
+<option value="8">Electric/Petrol 91RON</option>
+<option value="9">Electric/Petrol 95RON</option>
+<option value="10">Electric/Petrol 98RON</option>
+<option value="11">Electric/Diesel</option>
+<option value="12">Electric/LPG</option>
+<option value="13">Electric/NG</option>
+<option value="16">Plug-in Electric/Petrol 91RON</option>
+<option value="17">Plug-in Electric/Petrol 95RON</option>
+<option value="18">Plug-in Electric/Petrol 98RON</option>
+<option value="19">Plug-in Electric/Diesel</option>
+<option value="20">Plug-in Electric/LPG</option>
+<option value="21">Plug-in Electric/NG</option>
+<option value="7">NG</option>
+<option value="14">Hydrogen</option>
+</select>
+                            </div>
+                            <div class="form-item">
+                                <label for="VS_4_SeatingCapacity">Seats</label>
+                                <select id="VS_4_SeatingCapacity" name="VehicleSearchParameterList[4].SeatingCapacity"><option selected="selected" value="-1"></option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+</select>
+                            </div>
+                            <div class="form-item">
+                                <label for="VS_4_DrivenWheels">Drive</label>
+                                <select id="VS_4_DrivenWheels" name="VehicleSearchParameterList[4].DrivenWheels"><option selected="selected" value="-1"></option>
+<option value="1">2WD</option>
+<option value="2">4WD</option>
+</select>
+                            </div>
+                        </div>
+                     <fieldset> 
+    
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="submit-wrapper">
+            <input class="btn__green" id="submitType4" type="submit" value="Search vehicles" name="submitType" onclick="$('#showCompareInd').val(false); $('#SearchTypeSP').val('4'); $('#CurrentModel').val(false); $('#ShowingCompareResults').val(false);">
+        </div>
+
+        <div class="disclaimer">
+            <img class="disclaimer__icon" src="/assets/images/Function_icons/Disclaimer.svg" alt="Disclaimer Icon">
+            <h3 class="disclaimer__title">Disclaimer</h3>
+            <p class="disclaimer__text">The fuel consumption and emissions data reported on this website is based on laboratory testing in controlled conditions and should only be used to compare vehicles. Your on-road fuel consumption and emissions will depend on the circumstances in which you operate the vehicle. For more guidance visit <a class="section-general__left__links bold__styling" href="#">our guide to using tools and calculators. </a></p>
+        </div>
+    </div>
+</form>
+</div>
+
+    <div class="results-table-block">
+        <div class="results-top">
+            <div class="right-section">
+                <p class="section-general__right__text">Sorry, there are no results that could be found from your search. Try broadening your search</p>
+            </div>
+        </div>
+    </div>
+
+    </div>
+<div class="feedback-box__wrapper">
+    
+<div id="feedback-box" class="feedback-box">
+<form action="/GeneralForms/SubmitFeedback" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#feedback-box" id="form0" method="post"><input name="__RequestVerificationToken" type="hidden" value="O5zFSGLIyrwFWWdh7W1ussMisoVBz1ENmPNd3nsmG3kAmw0DEJYJPyIzK4Q6kgk_lpWUERyCheYWqbih--T5ci3yHCMpG0UcYToSywfMN-41" />        <h3 class="section__right__sub-title">Was this page useful?</h3>
+        <div class="feedback-box__radio">
+            <input class="feedback-box__radio__yes" id="Useful" name="Useful" type="radio" value="True" />
+            
+            <p class="feedback-box__text">Yes</p>
+            <input class="feedback-box__radio__no" id="Useful" name="Useful" type="radio" value="False" />
+            
+            <p class="feedback-box__text">No</p>
+        </div>
+        <p class="feedback-box__radio__no__text">Sorry to hear that. Please let us know how we can do better.</p>
+        <p class="feedback-box__radio__yes__text">Great to hear that! Please provide any feedback you wish to.</p>
+        <div class="feedback-box__box">
+            <label class="feedback-box__label">Enter feedback</label>
+            <textarea class="feedback-box__input" cols="20" id="AdditionalDetails" name="AdditionalDetails" placeholder="Enter feedback" rows="2">
+</textarea>
+
+        </div>
+        <p class="feedback-box__text__2"> If you are unable to find what you are looking for, you can also </p>
+        <a class="feedback-box__text feedback-box__contact" href="/Home/Contact">contact us</a>
+        <input class="btn__green feedback-box__btn" type="submit" value="Submit">
+</form></div>
+
+
+
+</div>
+</main>
+ <!-- section Main -->
+
+
+    <footer class="footer">
+<div>
+ <div class="footer__wrapper">
+    <div class="footer__nav">
+        <div class="footer__images">
+            <div class="footer__item">
+                <a href="/">
+                    <img class="footer__logo" src="/assets/images/Brandmarks/Aust_Government_Logo.svg" alt="An Australian Government Initiative logo" />
+                </a>
+                <div class="footer__vertical__line"></div>
+                <a href="/">
+                    <img class="footer__logo footer__logo__gvg" src="/assets/images/Brandmarks/GVG_BMark_Black.svg" alt="Green Vehicle Guide logo" />
+                </a>
+            </div>
+        </div>
+        <nav class="footer__menus" role="navigation" id="#"  aria-label=" primary GVG footer">
+          <ul class="menu"> 
+            <li class="footer__item">
+                <a class="footer__h4" href="#">Tools and calculators<button class="footer__menu__btn" aria-expanded="false">expand button <span class="icon" aria-hidden="true"> </span></button></a>
+                <div class="footer__link__dropdown">
+                 <ul class="footer__submenu" aria-label="sub menu of tools and calculator">
+                    <li><a class="footer__link" href="/Calculators/FuelCalculator">Fuel cost and CO<sub>2</sub> calculator</a></li>
+                    <li><a class="footer__link" href="/Calculators/HomeChargingCalculator">Home charging calculator</a></li>
+                    <li><a class="footer__link" href="/Calculators/FuelLifecycleEmissionsCalculator">Fuel lifecycle emissions calculator</a></li>
+                    <li><a class="footer__link" href="/Vehicle/Search">Search cars</a></li>
+                    <li><a class="footer__link" href="/pages/ToolsAndCalculators/SearchOlderVehicles">Search older vehicles</a></li>
+                    <li><a class="footer__link" href="/Vehicle/CompareVehicle">Compare vehicles</a></li>
+                    <li><a class="footer__link" href="/pages/ToolsAndCalculators/HowToGuide">How to guide</a></li>
+                    <li><a class="footer__link" href="/pages/ToolsAndCalculators/RankingsAndMeasurements">Rankings and measurements</a></li>
+                    <li><a class="footer__link" href="/pages/ToolsAndCalculators/FuelConsumptionLabel">Fuel consumption label</a></li>
+                   <li> <a class="footer__link" href="/StaticContent/GuidesAndResources?viewName=Information%2FGuidesAndResources">Guides and resources</a></li>
+                 </ul>
+                </div>
+            </li>
+            <li class="footer__item">
+                <a class="footer__h4" href="#">Featured vehicles<button class="footer__menu__btn" aria-expanded="false">expand button <span class="icon" aria-hidden="true"> </span></button></a>
+                <div class="footer__link__dropdown">
+                 <ul class="footer__submenu" aria-label="sub menu of Featured vehicles">
+                    <li> <a class="footer__link" href="/#top20">The Top 20 performers and sellers</a></li> 
+                    <li> <a class="footer__link" href="/Home/NewlyAddedVehicles">Newly added vehicles</a></li> 
+                 </ul>
+                </div>
+            </li>
+            <li class="footer__item">
+                <a class="footer__h4" href="#">Low and zero emission vehicles<button class="footer__menu__btn" aria-expanded="false">expand button <span class="icon" aria-hidden="true"> </span></button></a>
+                <div class="footer__link__dropdown">
+                 <ul class="footer__submenu" aria-label="sub menu of Low and zero emission vehicles">
+                    <li><a class="footer__link" href="/pages/LowAndZeroEmissionVehicles/HybridVehicleInformation">Hybrid vehicles</a></li>
+                    <li><a class="footer__link" href="/pages/LowAndZeroEmissionVehicles/ElectricVehicleInformation">Electric vehicles</a></li>
+                    <li><a class="footer__link" href="/pages/LowAndZeroEmissionVehicles/HydrogenVehicleInformation">Hydrogen vehicles</a></li>
+                 </ul>
+                </div>
+            </li>
+            <li class="footer__item">
+                <a class="footer__h4" href="#">Understanding emissions<button class="footer__menu__btn" aria-expanded="false">expand button <span class="icon" aria-hidden="true"> </span></button></a>
+                <div class="footer__link__dropdown">
+                 <ul class="footer__submenu" aria-label="sub menu of Understanding emissions">
+                    <li><a class="footer__link" href="/pages/UnderstandingEmissions/LifecycleEmissions">Lifecycle emissions</a></li>
+                    <li><a class="footer__link" href="/pages/UnderstandingEmissions/VehicleEmissions">Vehicle emissions</a></li>
+                    <li><a class="footer__link" href="/pages/UnderstandingEmissions/TipsToReduceYourEmissions">Tips to reduce your emissions</a></li>
+                    <li><a class="footer__link" href="/pages/UnderstandingEmissions/RealWorldEmissions">Real world emissions</a></li>
+                 </ul>
+                </div>
+            </li>
+            <li class="footer__item footer__item__smaller-space">
+                <a class="footer__h4" href="#">About<button class="footer__menu__btn" aria-expanded="false">expand button <span class="icon" aria-hidden="true"></span></button></a>
+                <div class="footer__link__dropdown">
+                 <ul class="footer__submenu" aria-label="sub menu of About">
+                    <li><a class="footer__link" href="/Home/About">About us</a></li>
+                    <li><a class="footer__link" href="/Home/Contact">Contact us</a></li>
+                    <li><a class="footer__link" href="/pages/About/FAQ">FAQs</a></li>
+                 </ul>
+                </div>              
+            </li>
+            <li class="footer__item footer__item__smaller-space">
+                <a class="footer__h4" href="#" href="/News">News</a>
+            </li>
+          </ul>  
+
+        </nav>
+        <div class="footer__states">
+         <ul class="state-link" aria-label="menu">
+            <li class="footer__item">
+                <a class="footer__h4" href="#">State and Territory schemes<button class="footer__menu__btn" aria-expanded="false">expand button <span class="icon" aria-hidden="true"> </span></button></a>
+                <div class="footer__link__dropdown">
+                 <ul class="state-link" aria-label="menu">
+                    <li> <a class="footer__link footer__link__external-logo" target="_blank" href=" https://www.climatechoices.act.gov.au/policy-programs/acts-zero-emissions-vehicles-strategy">Australian Capital Territory</a></li> 
+                   <li>  <a class="footer__link footer__link__external-logo" target="_blank" href="https://www.nsw.gov.au/initiative/nsw-governments-electric-vehicle-strategy">New South Wales</a></li> 
+                   <li>  <a class="footer__link footer__link__external-logo" target="_blank" href="https://dipl.nt.gov.au/strategies/electric-vehicle">Northern Territory</a></li> 
+                   <li>  <a class="footer__link footer__link__external-logo" target="_blank" href="https://www.qld.gov.au/transport/projects/electricvehicles/zero-emission-strategy">Queensland</a></li> 
+                  <li>  <a class="footer__link footer__link__external-logo" target="_blank" href="https://www.energymining.sa.gov.au/industry/modern-energy/electric-vehicles">South Australia</a></li> 
+                    <li> <a class="footer__link footer__link__external-logo" target="_blank" href="https://www.recfit.tas.gov.au/what_is_recfit/climate_change/electric_vehicles">Tasmania</a></li> 
+                  <li>   <a class="footer__link footer__link__external-logo" target="_blank" href="https://www.energy.vic.gov.au/renewable-energy/zero-emissions-vehicles">Victoria</a></li> 
+                   <li>  <a class="footer__link footer__link__external-logo" target="_blank" href="https://www.wa.gov.au/service/environment/environment-information-services/electric-vehicle-strategy">Western Australia</a></li> 
+                 </ul>
+                </div>
+            </li>
+         </ul>
+        </div>
+    </div>
+        <div class="footer__disclaimer">
+            <a class="footer__disclaimer__link" href="/Home/Disclaimer">Disclaimer |</a>
+            <a class="footer__disclaimer__link" href="/Home/Copyright">Copyright 2026 |</a>
+            <a class="footer__disclaimer__link" href="/Account/SignIn">Manufacturer&apos;s login |</a>
+            <a class="footer__disclaimer__link" href="/pages/Information/RegisterForAccount">Register |</a>
+            <a class="footer__disclaimer__link" href="/Home/Privacy">Privacy</a>
+            <p>
+                This website is administered by the Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+            </p>
+        </div>
+ </div>
+</div>
+    </footer>
+
+    <script src="/assets/libraries/jquery-3.6.0.min.js"></script>
+    <script src="/assets/libraries/jquery-ui.min.js"></script>
+    <script src="/assets/libraries/slick.min.js"></script>
+    <script src="/assets/libraries/jquery.matchHeight.js"></script>
+    <script src="/assets/libraries/sortable.min.js"></script>
+    <script src="/assets/libraries/jquery.cookie.js"></script>
+    <script src="/assets/scripts/main.js"></script>
+    
+</body>
+</html>

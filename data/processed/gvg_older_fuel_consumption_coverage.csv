@@ -1,0 +1,2 @@
+"source_id","raw_path","rows","min_year","max_year","fuels","vehicle_types","notes"
+"gvg_older_fuel_consumption","data/raw/FuelConsumptionGuide1986-2003.csv",10062,1986,2003,"diesel;Diesel;lpg;LPG;LPG/Petrol;petrol;Petrol","4WD;Commercial;Light Comm;Passenger","Official GVG older vehicle fuel-consumption CSV. Covers 1986-2003 and is not directly comparable with the post-2004 GVG search tables."

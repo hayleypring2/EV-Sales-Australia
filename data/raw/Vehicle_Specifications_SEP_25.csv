@@ -1,0 +1,141 @@
+VEHICLE TYPE,FUEL TYPE,MODEL,VARIANT DETAILS,LISTED PRICE ($AUD),FAST CHARGE TIME (minutes),ANCAP RATING,ANCAP VAN RATING,RANGE (km),ENERGY CONSUMPTION
+Large Car,BEV,Audi e-tron GT,2025 Audi RS e-tron GT Auto e-quattro MY25,264900,"18 mins (10%-80% charge, 320kW charger)",Unrated,,532,19.4
+Medium SUV,BEV,Audi Q4 e-tron,2025 Audi Q4 e-tron 45 Auto MY25,84900,"28 mins (10%-80% charge, 175kW charger)","5 star, 2021",,524,17.4
+Medium SUV,BEV,Audi Q6 e-tron,2025 Audi Q6 e-tron Auto e-quattro MY25,127500,"21 mins (10%-80% charge, 170kW charger)","5 star, 2024",,542,19.5
+Large SUV,BEV,Audi Q8 e-tron,2025 Audi Q8 e-tron 50 Auto e-quattro MY25,140090,"31 mins (10%-80% charge, 170kW charger)","5 star, 2019",,405,24.3
+Medium Car,BEV,BMW i4,2024 BMW i4 eDrive35 M Sport G26 Auto,85900,"31 mins (10%-80% charge, 205kW charger)","4 star, 2022",,520,22.2
+Large Car,BEV,BMW i5,2025 BMW i5 eDrive40 M Sport G60 Auto,155900,"30 mins (10%-80% charge, 205kW charger)",Unrated,,550,16.5
+Large Car,BEV,BMW i7,2025 BMW i7 xDrive60 M Sport G70 Auto AWD,306900,"34 mins (10%-80% charge, 205kW charger)",Unrated,,625,22.2
+Large SUV,BEV,BMW iX,2025 BMW iX xDrive45 M Sport I20 LCI Auto AWD,142900,"34 mins (10%-80% charge, 205kW charger)","5 star, 2021",,522,20
+Small SUV,BEV,BMW iX1,2025 BMW iX1 eDrive20 xLine U11 Auto,80600,"29 mins (10%-80% charge, 205kW charger)","5 star, 2022",,464,15.7
+Small SUV,BEV,BMW iX2,2025 BMW iX2 eDrive20 M Sport U10 Auto,84700,"39 mins (10%-80% charge, 205kW charger)",Unrated,,427,17.1
+Medium SUV,BEV,BMW iX3,2025 BMW iX3 M Sport G08 Auto,91000,"30 mins (10%-80% charge, 150kW charger)",Unrated,,440,21.6
+Medium SUV,BEV,BYD Atto 3,2025 BYD ATTO 3 Essential Auto,39990,"29 mins (30%-80% charge, 88kWh charger)","5 star, 2022",,410,14.8
+Small Car,BEV,BYD Dolphin,2025 BYD Dolphin Essential Auto MY25,29990,"29 mins (30%-80% charge, 100kWh charger)","5 star, 2023",,410,12.6
+Medium Car,BEV,BYD Seal,2025 BYD Seal Dynamic Auto MY25,46990,"26 mins (30%-80% charge, 150kW charger)","5 star, 2023",,510,13.8
+Medium SUV,BEV,BYD Sealion 7,2025 BYD Sealion 7 Performance Auto AWD,63990,,"5 star, 2025",,542,17.9
+Small SUV,BEV,Chery C5/E5 & Omoda 5,2025 Chery E5 Ultimate Auto MY25.5,40990,"28 mins (30%-80% charge, 80kW charger)",Unrated,,505,13.2
+Medium SUV,BEV,CUPRA Tavascan,2025 CUPRA Tavascan Endurance Auto MY25,60990,"28 mins (10%-80% charge, 135kW charger)","4 star, 2024",,534,16.3
+Large SUV,BEV,Deepal E07,2025 Deepal E07 Performance Auto AWD MY25,73900,"15 mins (30%-80% charge, 240kW charger)",Unrated,,590,16.6
+Medium SUV,BEV,Deepal S07,2025 Deepal S07 Auto MY24,53900,"35 mins (30%-80% charge, 92kW charger)","5 star, 2024",,475,18.6
+Small Car,BEV,Fiat 500e,2023 Fiat 500e La Prima Auto MY23,52500,"35 mins (0%-80% charge, 85kW charger)","4 star, 2021",,311,14.4
+Large SUV,BEV,Ford Mustang Mach-E,2023 Ford Mustang Mach-E Select Auto MY23.75,64990,"32 mins (10%-80% charge, 150kW charger)","5 star, 2021",,470,17.8
+Van,BEV,Ford Transit Custom,2025 Ford E-Transit Custom Sport SWB AV SWB Auto 26.00MY,79990,"32 mins (15%-80% charge, 125kW charger)",Unrated,,,
+Medium SUV,BEV,Geely EX5,2025 Geely EX5 Complete Auto MY25,40990,"20 mins (30%-80% charge, 100kW charger)","5 star, 2025",,430,15.8
+Large Car,BEV,Genesis G80,2025 Genesis G80 Signature Auto AWD MY25,155000,"25 mins (10%-80% charge, 350kW charger)","5 star, 2021",,520,19.1
+Small SUV,BEV,Genesis GV60,2025 Genesis GV60 AWD Auto AWD MY24,103384,"18 mins (10%-80% charge, 350kW charger)","5 star, 2022",,470,18.8
+Medium SUV,BEV,Genesis GV70,2025 Genesis GV70 Signature Performance Auto AWD MY25,132800,"19 mins (10%-80% charge, 350kW charger)","5 star, 2021",,445,19.9
+Small Car,BEV,GWM Ora,2025 GWM Ora Standard Range Auto,35990*,"41 mins (10%-80% charge, 80kW charger)","5 star, 2022",,310,16.7
+Small SUV,BEV,Hyundai Inster,2025 Hyundai INSTER Auto 2WD MY26,39000,"30 mins (10%-80% charge, 150kW charger)","5 star, 2025",,327,14.3
+Medium SUV,BEV,Hyundai Ioniq 5,2025 Hyundai IONIQ 5 Auto 2WD MY25,69800,"18 mins (10%-80% charge, 800V charger)","5 star, 2021",,440,15.6
+Medium Car,BEV,Hyundai Ioniq 6,2025 Hyundai IONIQ 6 Auto 2WD MY25,67300,"18 mins (10%-80% charge, 800V charger)","5 star, 2022",,614,11.6
+Large SUV,BEV,Hyundai Ioniq 9,2025 Hyundai IONIQ 9 Calligraphy Auto AWD MY26,119750,"24 mins (10%-80% charge, 350kW charger)","5 star, 2025",,600,20.6
+Small SUV,BEV,Hyundai Kona BEV,2025 Hyundai Kona Electric Auto 2WD MY25,54000,"45 mins (10%-80% charge, 100kW charger)","4 star, 2023",,,
+Small SUV,BEV,KIA EV3,2025 Kia EV3 Air Standard Range Auto 2WD MY25,47600,"29 mins (10%-80% charge, 350kW charger)","5 star, 2023",,436,14.9
+Medium SUV,BEV,Kia EV5,2025 Kia EV5 Air Standard Range Auto MY25,56770,"36 mins (10%-80% charge, 350kW charger)","5 star, 2025",,400,18.2
+Large SUV,BEV,Kia EV6,2025 Kia EV6 Air Auto MY24,72590,"18 mins (10%-80% charge, 350kW charger)","5 star, 2022",,528,16.5
+Large SUV,BEV,Kia EV9,2025 Kia EV9 Air Auto MY25,97000,"20 mins (10%-80% charge, 350kW charger)","5 star, 2023",,443,19.5
+Small SUV,BEV,Kia Niro BEV,2025 Kia Niro EV S Auto 2WD MY25,66590,"43 mins (10%-80% charge, 350kW charger)","5 star, 2022",,455,15.9
+Van,BEV,LDV eDeliver7,2024 LDV eDeliver 7 SWB Auto,67358,"45 mins (20%-80% charge, 78kW charger)",,Gold (77%),,
+People Mover,BEV,LDV Mifa 9,2025 LDV Mifa 9 Luxe Auto MY23,129000,36 mins (30%-80% charge),"5 star, 2022",,,
+Medium SUV,BEV,Leapmotor C10 BEV,2025 Leapmotor C10 Style Auto MY25,43888,"30 mins (30%-80% charge, 84kW charger)","5 star, 2024",,480,16.3
+Medium SUV,BEV,Lexus RZ,2025 Lexus RZ RZ450e Luxury Auto,121059,"30 mins (0%-80% charge, 150kW charger)","5 star, 2023",,470,15.2
+Large SUV,BEV,Lotus Eletre,2025 Lotus Eletre Auto AWD MY24,189990,"20 mins (0%-80% charge, 350kW charger)",Unrated,,,
+Large Car,BEV,Lotus Emeya,2025 Lotus Emeya Auto AWD,189990,"50 mins (0%-80% charge, 420kW charger)",Unrated,,,
+Sports Car,BEV,Maserati Coupe/Conv,2025 Maserati GranCabrio Folgore Auto 4x4 MY25,475000,,Unrated,,,
+Small SUV,BEV,Mercedes-Benz EQA,2025 Mercedes-Benz EQA EQA250+ City Edition Auto,80700,"35 mins (10%-80% charge, 350kW charger)","5 star, 2019",,578,14.1
+Medium SUV,BEV,Mercedes-Benz EQB,2025 Mercedes-Benz EQB EQB250+ City Edition Auto,85400,"35 mins (10%-80% charge, 350kW charger)","5 star, 2019",,564,14.7
+Large SUV,BEV,Mercedes-Benz EQE SUV,2025 Mercedes-Benz EQE EQE300 Auto,135200,"32 mins (10%-80% charge, 350kW charger)","5 star, 2022",,626,16.3
+Large SUV,BEV,Mercedes-Benz EQS SUV,2025 Mercedes-Benz EQS EQS450 Auto 4MATIC,197200,,"5 star, 2021",,698,19.1
+People Mover,BEV,Mercedes-Benz EQV,2025 Mercedes-Benz EQV EQV300 Auto,161723,"75 mins (10%-80% charge, 350kW charger)",Unrated,,430,25.5
+People Mover,BEV,Mercedes-Benz eVito Tourer,2025 Mercedes-Benz eVito Tourer 129 Medium Wheelbase Auto,137515,"40 mins (10%-80% charge, 400V charger)",Unrated,,421,26.2
+Van,BEV,Mercedes-Benz eVito Van,2025 Mercedes-Benz eVito 112 LWB Auto,98951,"35 mins (10%-80% charge, 400V charger)",,Platinum (90%),283,26.1
+Large SUV,BEV,Mercedes-Benz G-Class,2025 Mercedes-Benz G-Class G580 with EQ Technology Auto 4MATIC,249900,"31 mins (10%-80% charge, 350kW charger)",Unrated,,567,23.1
+Sports Car,BEV,MG Cyberster,2025 MG Cyberster Auto MY25,99900,"40 mins (10%-80% charge, 150kW charger)",Unrated,,443,19.1
+Large Car,BEV,MG IM5,2025 MG IM5 Performance Auto AWD MY25,80990*,"15.2 mins (30%-80% charge, 875V charger)",Unrated,,615,18.6
+Large SUV,BEV,MG IM6,2025 MG IM6 Platinum Auto MY25,69990*,"15.2 mins (30%-80% charge, 875V charger)",Unrated,,545,21.7
+Small Car,BEV,MG MG4,2025 MG MG4 Excite 51 125kW Auto MY25,37990,"40 mins (10%-80% charge, 50kW charger)","5 star, 2022",,405,18.4
+Small SUV,BEV,MG S5,2025 MG MGS5 EV Excite 49 Auto MY25,40490*,"19 mins (30%-80% charge, 120kW charger)","5 star, 2025",,340,16.6
+Small Car,BEV,MINI Aceman,2025 MINI Aceman E Classic Auto FWD,55990,"28 mins (0%-80% charge, 75kW charger)",Unrated,,300,14.1
+Small SUV,BEV,MINI Countryman,2025 MINI Countryman SE Classic Auto ALL4,72990,"29 mins (10%-80% charge, 130kW charger)","5 star, 2024",,396,18.3
+Small Car,BEV,MINI Hatch,2025 MINI Cooper SE Favoured Auto,58990,"30 mins (10%-80% charge, 130kW charger)","5 star, 2025",,362,15.1
+Medium SUV,BEV,Nissan Ariya,2025 Nissan Ariya Advance+ FE0 Auto MY25,63840*,"40 mins (10%-80% charge, 130kW charger)","5 star, 2022",,504,19.1
+Small Car,BEV,Peugeot 308,2024 Peugeot E-308 GT Auto MY24,65990*,"30 mins (0%-80% charge, 100kW charger)",Unrated,,,
+Van,BEV,Peugeot Expert,2024 Peugeot e-Expert Pro Long Auto,79990,"45 mins (0%-80% charge, 100kW charger)",Unrated,,,
+Van,BEV,Peugeot Partner,2025 Peugeot e-Partner Pro LWB Auto MY25,60990,30 mins (0%-80% charge),Unrated,,258,21.8
+Medium Car,BEV,Polestar 2,2025 Polestar 2 Standard range Single motor Auto MY25,62400,"28 mins (10%-80% charge, 205kW charger)","5 star, 2021",,625,19.7
+Large SUV,BEV,Polestar 3,2025 Polestar 3 Long Range Single Motor Auto MY25,116754,"32 mins (10%-80% charge, 250kW charger)","5 star, 2025",,,
+Large SUV,BEV,Polestar 4,2025 Polestar 4 Long range Single motor Auto MY26,78500,"28 mins (10%-80% charge, 150kW charger)","5 star, 2025",,,
+Medium SUV,BEV,Porsche Macan,2025 Porsche Macan GTS XAB Auto AWD MY26,171100,"21mins (10%-80% charge, 270kW charger)",Unrated,,,
+Large Car,BEV,Porsche Taycan,2025 Porsche Taycan Y1A II Auto RWD MY25,174500,"18 mins (10%-80% charge, 320kW charger)",Unrated,,434,28.7
+Van,BEV,Renault Kangoo,2025 Renault Kangoo E-TechL2 EV45 LWB Auto MY25,63990,85 mins (80kW charger),Unrated,,286,17.5
+Small SUV,BEV,Renault Megane E-Tech,2024 Renault Megane E-Tech Techno EV60 Auto MY24,54990,"30 mins (15%-80% charge, 130kW charger)","5 star, 2022",,454,15.6
+Sports Car,BEV,Rolls-Royce Coupe/Conv,2025 Rolls-Royce Spectre Black Badge RR25 Auto AWD MY25,933000,,Unrated,,,
+Medium SUV,BEV,Skoda Elroq,2025 SKODA Elroq 85 Select Auto MY25,54990,"28 mins (10%-80% charge, 175kW charger)",Unrated,,540,16.6
+Medium SUV,BEV,Skoda Enyaq,2025 SKODA Enyaq Sportline Auto MY25,69990,"28 mins (10%-80% charge, 175kW charger)","5 star, 2021",,561,15.9
+Small SUV,BEV,Alfa Romeo Junior,2025 Alfa Romeo Junior Elettrica Auto FWD,57900,"27 mins (20%-80% charge, 100kW charger)",Unrated,,407,15.2
+Small SUV,BEV,Jeep Avenger,2024 Jeep Avenger Longitude Auto FWD MY24,49990,"24 mins (20%-80% charge, 100kW charger)","3 star, 2023",,396,15.6
+Medium SUV,BEV,Subaru Solterra,2025 Subaru Solterra AWD E1-1 Auto AWD MY25,69990,"30 mins (0%-80% charge, 150kW charger)","5 star, 2022",,485,14.1
+Medium Car,BEV,Tesla Model 3,2025 Tesla Model 3 Rear-Wheel Drive Auto,54900,,"5 star, 2025",,559,13.4
+Medium SUV,BEV,Tesla Model Y,2025 Tesla Model Y Rear-Wheel Drive Auto,55900,,Unrated,,510,14.6
+Medium SUV,BEV,Toyota bZ4X,2025 Toyota bZ4X Auto 2WD,66000,"45 mins (10%-80% charge, 150kW charger)","5 star, 2022",,535,12.8
+Medium SUV,BEV,Volkswagen ID.4,2025 Volkswagen ID.4 Pro E2 Auto MY25,59990,"22 mins (10%-80% charge, 175kW charger)","5 star, 2021",,544,16.7
+Medium SUV,BEV,Volkswagen ID.5,2025 Volkswagen ID.5 Pro E2 Auto MY25,62990,"30 mins (10%-80% charge, 175kW charger)","5 star, 2021",,543,16.2
+Small SUV,BEV,Volvo EX30,2025 Volvo EX30 Single Motor Extended Range Plus Auto MY25,59990,"30 mins (10%-80% charge, 175kW charger)","5 star, 2024",,462,17.5
+Large SUV,BEV,Volvo EX90,2025 Volvo EX90 Plus Twin Motor Auto AWD MY25,124990,"30 mins (10%-80% charge, 175kW charger)",Unrated,,570,22
+People Mover,BEV,Zeekr 009 ,2025 Zeekr 009 Auto AWD MY25,135900,"30 mins (10%-80% charge, 205kW charger)",Unrated,,686,19.5
+Medium SUV,BEV,Zeekr 7X,2025 Zeekr 7X Performance Auto AWD,72900,"13 mins (10%-80% charge, 450kW charger)",Unrated,,,
+Small SUV,BEV,Zeekr X,2025 Zeekr X RWD Auto MY24,49900,"30 mins (10%-80% charge, 150kW charger)","5 star, 2024",,540,13.9
+Small SUV,PHEV,Alfa Romeo Tonale,2025 Alfa Romeo Tonale Tributo Italiano Plug-In Hybrid Auto MY24,79000,"150 mins (0%-100% charge, 7.4kW charger)",Unrated,,61,24.1
+Medium SUV,PHEV,Audi Q5 PHEV,2025 Audi Q5 55 TFSI e S line Auto quattro ultra MY25,105984,"150 mins (0%-100% charge, 7.2kW charger)",Unrated,,55,23.8
+Large SUV,PHEV,Audi Q8 PHEV,2025 Audi Q8 60 TFSI e S line Auto quattro MY25,154284,"225 mins (0%-100% charge, 7.4kW charger)",Unrated,,74,31.4
+Large SUV,PHEV,Bentley Bentayga,2025 Bentley Bentayga Azure Hybrid Auto AWD MY25,465900,,Unrated,,,
+Large Car,PHEV,Bentley Sedan,2024 Bentley Flying Spur Mulliner Hybrid Auto AWD MY24,646800,,Unrated,,,
+Large Car,PHEV,Bentley Coupe/Conv,2025 Bentley Continental GTC Azure V8 Auto AWD MY26,632000,,Unrated,,,
+Large Car,PHEV,BMW 5 Series,2025 BMW M5 G99 Auto M xDriver,265700,"135 mins (0%-100% charge, 11kW charger)",Unrated,,,
+Medium SUV,PHEV,BMW X3,2025 BMW X3 30e xDrive G45 Auto 4x4,104800,"135 mins (0%-100% charge, 11kW charger)",Unrated,,,
+Large SUV,PHEV,BMW X5 PHEV,2025 BMW X5 xDrive50e M Sport G05 LCI Auto 4x4,153600,"180 mins (0%-100% charge, 11kW charger)",Unrated,,101,26.4
+Large SUV,PHEV,BMW XM,2025 BMW XM G09 Auto M xDrive,302200,"165 mins (0%-100% charge, 11kW charger)",Unrated,,98,30.4
+Medium SUV,PHEV,BYD Sealion 6,2025 BYD SEALION 6 Essential Auto MY25,42990,"30 mins (0%-80% charge, 18kW charger)","5 star, 2023",,92,16.9
+Ute (4WD),PHEV,BYD Shark 6,2025 BYD SHARK 6 Premium Auto AWD,57900,"35 mins (0%-80% charge, 50kW charger)","5 star, 2025",,100,21.2
+Medium SUV,PHEV,Chery Tiggo 7 Pro,2025 Chery Tiggo 7 Super Hybrid Ultimate Auto MY26,43990*,,Unrated,,,
+Large SUV,PHEV,Chery Tiggo 8 Pro,2025 Chery Tiggo 8 Super Hybrid Ultimate Auto MY26,49990*,,Unrated,,,
+Medium SUV,PHEV,CUPRA Formentor PHEV,2024 CUPRA Formentor VZe Auto MY24,64990,,"5 star, 2021",,58,14.1
+Small Car,PHEV,CUPRA Leon PHEV,2024 CUPRA Leon VZe Auto MY24,61690,,"5 star, 2020",,67,11.3
+Sports Car,PHEV,Ferrari Coupe/Conv,2025 Ferrari 396 GTS Auto,668146,,Unrated,,,
+Ute (4WD),PHEV,Ford Ranger,2025 Ford Ranger PHEV Wildtrak Auto 4WD MY26.00 Double Cab,79990,"240 mins (0%-100% charge, 3.5kW charger)",Unrated,,49,18.7
+Van,PHEV,Ford Transit Custom,2025 Ford E-Transit Custom Sport SWB AV SWB Auto 26.00MY,69990,"255 mins (0%-100% charge, 3.5kW charger)",Unrated,,,
+Medium SUV,PHEV,Geely Starray EM-i,2025 Geely Starray EM-1 Inspire Auto 2026,39990,,Unrated,,83,14.7
+Ute (4WD),PHEV,GWM Cannon Alpha,2025 GWM Cannon Alpha Lux PHEV Auto 4WD Dual Cab,59990,"24 mins (30%-80% charge, 50kW charger)","5 star, 2024",,115,30.3
+Medium SUV,PHEV,GWM Haval H6,2025 GWM Haval H6 Ultra PHEV Auto 4WD,50990*,"28 mins (30%-80% charge, 34kW charger)","5 star, 2022",,180,20.9
+Large SUV,PHEV,GWM Tank 500,2025 GWM Tank 500 Ultra Hi4-T PHEV Auto 4WD,79990*,"24 mins (30%-80% charge, 50kW charger)",Unrated,,,
+Medium SUV,PHEV,Omoda Jaecoo J7 PHEV,2025 Jaecoo J7 SHS Summit Auto MY25,47990*,"20 mins (30%-80% charge, 40kW charger)","5 star, 2025",,,
+Large SUV,PHEV,Omoda Jaecoo Omoda 9,2025 Omoda Omoda 9 Virtue Auto AWD MY25,61990,"25 mins (30%-80% charge, 70kW charger)","5 star, 2025",,,
+Large SUV,PHEV,Jaguar F-Pace PHEV,2025 Jaguar F-PACE PHEV P400e R-Dynamic SE 90th Anniversary Edition Auto AWD MY26,115265,"30 mins (0%-80% charge, 32kW charger)",Unrated,,,
+Small SUV,PHEV,Jeep Compass PHEV,2024 Jeep Compass Summit 4xe Auto AWD MY24,69990,"105 mins (0%-100% charge, 7.4kW charger)",Unrated,,47,16.6
+Large SUV,PHEV,Jeep Grand Cherokee PHEV,2023 Jeep Grand Cherokee Summit Reserve 4xe Auto 4x4 MY23,110850,,"5 star, 2022",,52,20.9
+Sports Car,PHEV,Lamborghini Coupe/Conv,2025 Lamborghini Revuelto Auto AWD MY24,987908,,Unrated,,,
+Large SUV,PHEV,Land Rover Defender PHEV,2025 Land Rover Defender 110 P400e X-Dynamic SE Auto AWD MY25.5,129339,"30 mins (0%-80% charge, 40kW charger)","5 star, 2020",,52,26.1
+Medium SUV,PHEV,Land Rover Discovery Sport PHEV,2025 Land Rover Discovery Sport P300e Landmark Auto 4x4 MY26,91502,"30 mins (0%-80% charge, 35kW charger)",Unrated,,66,18.6
+Medium SUV,PHEV,Land Rover Range Rover Evoque PHEV,2025 Land Rover Range Rover Evoque P300e Autobiography Auto 4x4 MY26,91902,"30 mins (0%-80% charge, 7kW charger)","5 star, 2019",,66,18.6
+Large SUV,PHEV,Land Rover Range Rover PHEV,2025 Land Rover Range Rover P460e HSE PHEV Auto AWD MY25,277466,"60 mins (0%-80% charge, 50kW charger)","5 star, 2022",,126,25.4
+Large SUV,PHEV,Land Rover Range Rover Sport PHEV,2025 Land Rover Range Rover Sport PHEV P460e Dynamic HSE Auto AWD MY25,190545,"60 mins (0%-80% charge, 50kW charger)","5 star, 2022",,,
+Large SUV,PHEV,Land Rover Range Rover Velar PHEV,2025 Land Rover Range Rover Velar PHEV P400e Dynamic SE Auto AWD MY26,125511,"30 mins (0%-80% charge, 7.4kW charger)",Unrated,,59,19.3
+Medium SUV,PHEV,Leapmotor C10 PHEV,2025 Leapmotor C10 Style Auto MY25,43888,"30 mins (30%-80% charge, 84kW charger)",Unrated,,170,15.2
+Medium SUV,PHEV,Lexus NX PHEV,2025 Lexus NX NX450h+ F Sport Auto eFour,95900,"150 mins (0%-100% charge, 32A charger)","5 star, 2022",,87,14
+Large SUV,PHEV,Lexus RX PHEV,2025 Lexus RX RX450h+ Sports Luxury Auto eFour,123500,"150 mins (0%-100% charge, 32A charger)","5 star, 2022",,85,13.5
+Medium SUV,PHEV,Mazda CX-60 PHEV,2025 Mazda CX-60 P50e Pure KH Series Auto i-ACTIV AWD,64285,"90 mins (20%-80% charge, 7.2kW charger)","5 star, 2022",,76,14.8
+Large SUV,PHEV,Mazda CX-80 PHEV,2025 Mazda CX-80 P50e Touring KL Auto i-ACTIV AWD,76245,"90 mins (20%-80% charge, 7.2kW charger)","5 star, 2024",,65,19.8
+Sports Car,PHEV,McLaren Coupe/Conv,2025 McLaren Artura Auto MY25,494004,"150 mins (0%-80% charge, 240V charger)",Unrated,,,
+Medium Car,PHEV,Mercedes-Benz C-Class PHEV,2025 Mercedes-Benz C-Class C350 e Auto,98200,"20 mins (10%-80% charge, 55kW charger)","5 star, 2022",,104,16
+Large Car,PHEV,Mercedes-Benz E-Class,2025 Mercedes-Benz E-Class E53 AMG Auto 4MATIC+,199900,"20 mins (10%-80% charge, 60kW charger)",Unrated,,100,20.7
+Small SUV,PHEV,Mercedes-Benz GLA-Class,2025 Mercedes-Benz GLA-Class GLA250 e with EQ hybrid technology Auto,78000,"28 mins (10%-80% charge, 22kW charger)",Unrated,,65,21.3
+Medium SUV,PHEV,Mercedes-Benz GLC-Class,2025 Mercedes-Benz GLC-Class GLC350 e Auto 4MATIC,99000,"29 mins (10%-80% charge, 60kW charger)",Unrated,,132,19.5
+Small SUV,PHEV,Mitsubishi Eclipse Cross,2025 Mitsubishi Eclipse Cross PHEV ES YB Auto AWD MY24,47790,"30 mins (0%-80% charge, 22kW charger)",Unrated,,55,16.8
+Medium SUV,PHEV,Mitsubishi Outlander,2025 Mitsubishi Outlander PHEV ES ZM Auto AWD MY24,57290,"30 mins (0%-80% charge, 22kW charger)","5 star, 2022",,84,19.2
+Medium SUV,PHEV,Peugeot 408,2024 Peugeot 408 GT Plug-In Hybrid Auto MY24,67990,"210 mins (0%-100% charge, 11kW charger)",Unrated,,,
+Large SUV,PHEV,Porsche Cayenne,2025 Porsche Cayenne E-Hybrid 9YA II Auto 4x4 MY25,158100,"159 mins (0%-100% charge, 11kW charger)",Unrated,,42,20.9
+Large Car,PHEV,Porsche Panamera,2025 Porsche Panamera 4 E-Hybrid 972 Auto AWD MY25,268100,"159 mins (0%-100% charge, 11kW charger)",Unrated,,96,26.9
+Large SUV,PHEV,Volkswagen Touareg,2025 Volkswagen Touareg R RC Auto 4MOTION MY25,133490,"150 mins (0%-100% charge, 7.2kW charger)",Unrated,,51,21.1
+Medium SUV,PHEV,Volvo XC60,2025 Volvo XC60 Plus T8 Plug-In Hybrid Auto AWD MY25,92390,"180 mins (0%-100% charge, 6.4kW charger)",Unrated,,81,26.2
+Large SUV,PHEV,Volvo XC90,2025 Volvo XC90 Ultra T8 Plug-In Hybrid Auto AWD MY25,130990,"180 mins (0%-100% charge, 6.4kW charger)",Unrated,,77,26.7

@@ -75,7 +75,21 @@ Run:
 ```r
 Rscript scripts/ingest_aaa_ev_index.R
 Rscript scripts/ingest_aaa_registration_stock.R
+Rscript scripts/ingest_aaa_vehicle_specs.R
+Rscript scripts/ingest_gvg_older_fuel_consumption.R
+Rscript scripts/ingest_gvg_search.R
 Rscript scripts/build.R
+```
+
+`scripts/ingest_gvg_search.R` defaults to a 2025 pilot for petrol 91, diesel, BEV, and common PHEV fuel IDs, with make-level splitting for capped class slices. To widen it, set environment variables before sourcing/running the script, for example:
+
+```r
+Sys.setenv(
+  GVG_YEARS = "2016:2026",
+  GVG_FUEL_IDS = "1,2,3,4,8,9,10,11,15,16,17,18,19",
+  GVG_SPLIT_MAKE_IF_CLASS_CAPPED = "1"
+)
+source("scripts/ingest_gvg_search.R")
 ```
 
 Outputs:
@@ -92,6 +106,15 @@ Outputs:
 - `data/processed/stock_panel_postcode_annual.csv`
 - `data/processed/stock_panel_coverage.csv`
 - `data/processed/sales_stock_share_alignment.csv`
+- `data/processed/vehicle_specs_aaa.csv`
+- `data/processed/vehicle_specs_model_summary.csv`
+- `data/processed/model_sales_vehicle_specs_coverage.csv`
+- `data/processed/vehicle_specs_coverage.csv`
+- `data/processed/gvg_older_fuel_consumption_1986_2003.csv`
+- `data/processed/gvg_older_fuel_consumption_coverage.csv`
+- `data/processed/gvg_search_vehicle_specs.csv`
+- `data/processed/gvg_search_query_log.csv`
+- `data/processed/gvg_search_coverage.csv`
 - `data/processed/sales_panel_annual.csv`
 - `data/processed/sales_panel_annual_preferred.csv`
 - `data/processed/sales_panel_annual_quality_scored.csv`

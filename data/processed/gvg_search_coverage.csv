@@ -1,0 +1,2 @@
+"source_id","years","fuel_type_ids","output_rows","unique_vehicle_display_ids","capped_queries","class_split_enabled","manufacturer_split_enabled","notes"
+"gvg_current_search","2025-2025","1;4;15;16;17;18;19",2072,2072,8,TRUE,TRUE,"Public GVG search table extraction. Queries returning 200 rows may be capped; script splits capped year/fuel queries by GVG vehicle class by default."

@@ -1,0 +1,2 @@
+"source_id","raw_path","source_rows","model_summary_rows","fuel_types","broad_vehicle_types","min_price_aud","max_price_aud","max_range_km"
+"aaa_ev_index_vehicle_specs","data/raw/Vehicle_Specifications_SEP_25.csv",140,140,"BEV;PHEV","light_commercial;passenger;people_mover;SUV",29990,987908,698
