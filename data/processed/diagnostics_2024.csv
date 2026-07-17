@@ -1,0 +1,7 @@
+"period","geography","metric","value","unit","notes"
+"2024","Australia","reported_total_market_sales",1220607,"vehicles","Reported by Guardian from VFACTS."
+"2024","Australia","top100_model_sales_sum",1027930,"vehicles","Sum of Chasing Cars top-100 model table; commercial vans excluded by source."
+"2024","Australia","top100_market_coverage_percent",84.2,"percent","Top-100 model sales divided by reported 2024 total market sales."
+"2024","Australia","known_bev_top100_sales",61670,"vehicles","Sum of BEV-only models in explicit model_powertrain_observations."
+"2024","Australia","approx_reported_total_bev_sales",110000,"vehicles","Approximate EV sales reported by Guardian."
+"2024","Australia","known_bev_top100_capture_percent",56.1,"percent","Known BEV-only top-100 sales divided by approximate total BEV sales."

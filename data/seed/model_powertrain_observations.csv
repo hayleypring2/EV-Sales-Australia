@@ -1,0 +1,10 @@
+period,geography,make,model,vehicle_type,powertrain,sales,unit,source_id,notes
+2024,Australia,Toyota,RAV4,SUV,HEV,55902,vehicles,chasingcars_2024_top100,"Chasing Cars reports 55902 sales applying to petrol-electric RAV4 variants."
+2024,Australia,Tesla,Model Y,SUV,BEV,21253,vehicles,chasingcars_2024_top100,"Model is BEV-only."
+2024,Australia,Tesla,Model 3,passenger,BEV,17094,vehicles,chasingcars_2024_top100,"Model is BEV-only."
+2024,Australia,MG,MG4,passenger,BEV,6934,vehicles,chasingcars_2024_top100,"Model is BEV-only."
+2024,Australia,BYD,Seal,passenger,BEV,6393,vehicles,chasingcars_2024_top100,"Model is BEV-only."
+2024,Australia,BYD,Sealion 6,SUV,PHEV,6198,vehicles,chasingcars_2024_top100,"Model is PHEV-only in 2024 Australian launch."
+2024,Australia,BYD,Atto 3,SUV,BEV,5751,vehicles,chasingcars_2024_top100,"Model is BEV-only."
+2024,Australia,Volvo,EX30,SUV,BEV,2129,vehicles,chasingcars_2024_top100,"Model is BEV-only."
+2024,Australia,BYD,Dolphin,passenger,BEV,2116,vehicles,chasingcars_2024_top100,"Model is BEV-only."

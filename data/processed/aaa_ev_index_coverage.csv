@@ -1,0 +1,2 @@
+"source_id","ingest_method","source_url","raw_json_path","raw_path","source_rows","long_rows","quarter_count","first_quarter","last_quarter","state_count","vehicle_type_count","model_count","total_sales_in_csv"
+"aaa_ev_index","graphql","https://www.aaa.asn.au/graphql","data/raw/aaa_ev_index_graphql_2026-07-17.json","data/raw/aaa_ev_index_2026-07-17.csv",4718,80206,17,"Q1 2022","Q1 2026",8,11,462,4847091
