@@ -65,6 +65,7 @@ This repository currently contains a starter ledger, not a finished dataset. It 
 - A starter model-to-vehicle-type and model-to-powertrain lookup.
 - Full-year category and fuel breakdowns for 2021-2023, plus 2024 public broad shares and top-100 model coverage.
 - A scrape-target manifest for the 2016-2026 source collection campaign.
+- A separate `wealth_evs/` storytelling exhibit joining postcode EV registration stock to ABS SEIFA wealth/advantage deciles, including an interactive HTML map.
 
 Next best step: reconcile overlapping 2016-2021 fuel observations and add uncertainty flags before fitting projection curves.
 
