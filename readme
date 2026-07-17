@@ -1,0 +1,5 @@
+Currently there is no publicly-available car-sales data in Australia that comprehensively tracks car sales, and specifically the penetration of EVs into the Australian market.
+This has created a problem for estimating the trajectory of electrifying the transport grid in Australia. Without knowing the rate of EV adoption across vehicle types, we cannot identify where policy levers and interventions should be targeted to speed up adoption. 
+Existing sources of car/EV sales data are either incomplete (i.e. EVFacts no longer includes Tesla sales) or paywalled (or in most cases, both), with the purcashing price for the data unreasonably high.
+
+The purpose of this project is to -- as best as possible -- build a public database of car sales in Australia by scraping and compiling data on sales by fuel type (BEV, PHEV, ICE) and fleet type (passenger, light-weight commerical, heavy-commercial, SUV etc).
