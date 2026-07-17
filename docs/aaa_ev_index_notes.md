@@ -58,5 +58,12 @@ Current script outputs:
 
 Remaining investigation:
 
-- Add the AAA vehicle specification CSV and registration workbook as auxiliary stock/specification layers.
+- Add the AAA vehicle specification CSV as an auxiliary model/specification layer.
 - Decide whether to treat AAA quarterly sales as the authoritative 2022-Q1 2026 backbone and use VFACTS-media reconstructions mainly for 2016-2021 and annual validation.
+
+Registration stock layer:
+
+- `scripts/ingest_aaa_registration_stock.R` ingests `EV_Index_Registration_Data_2021-2025.xlsx`.
+- The workbook provides postcode/state/fuel registration stock as at 31 January for 2021-2025.
+- Fuel groups are `BEV`, `Hybrid/PHEV`, and `ICE`; the ingest normalizes `Hybrid/PHEV` to `HEV_or_PHEV`.
+- Outputs include `stock_panel_annual.csv`, `stock_panel_postcode_annual.csv`, `stock_panel_coverage.csv`, and `sales_stock_share_alignment.csv`.

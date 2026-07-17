@@ -74,6 +74,7 @@ Run:
 
 ```r
 Rscript scripts/ingest_aaa_ev_index.R
+Rscript scripts/ingest_aaa_registration_stock.R
 Rscript scripts/build.R
 ```
 
@@ -87,6 +88,10 @@ Outputs:
 - `data/processed/aaa_sales_by_broad_vehicle_type_fuel_year.csv`
 - `data/processed/aaa_ev_index_coverage.csv`
 - `data/processed/aaa_reconciliation_with_seed_totals.csv`
+- `data/processed/stock_panel_annual.csv`
+- `data/processed/stock_panel_postcode_annual.csv`
+- `data/processed/stock_panel_coverage.csv`
+- `data/processed/sales_stock_share_alignment.csv`
 - `data/processed/sales_panel_annual.csv`
 - `data/processed/sales_panel_annual_preferred.csv`
 - `data/processed/sales_panel_annual_quality_scored.csv`
